@@ -1,0 +1,1866 @@
+######## ./knowledge-base\audits.md
+
+Comment on page
+
+Audits
+======
+
+Security is the top priority here at Prisma and alongside internal best practices through extensive testing, the Prisma protocol is additionally assessed by an independent risk team and external auditors.
+
+Prisma's independent risk assessment team is led by [Llamarisk](https://twitter.com/PrismaRisk). Prisma is audited by [Nomoi](https://www.nomoi.xyz/), [Mixbytes](https://mixbytes.io/) and [Zellic](https://www.zellic.io/).
+
+See each audit link at https://docs.prismafinance.com/external-audits-and-security/audits
+
+######## ./knowledge-base\deployment-addresses.md
+
+# Deployment Addresses
+
+All contracts are deployed to the Ethereum mainnet.
+
+### 
+
+Core Protocol[](#core-protocol)
+
+Github: [https://github.com/prisma-fi/prisma-contracts](https://github.com/prisma-fi/prisma-contracts)​
+
+Contract
+
+Address
+
+BorrowerOperations
+
+​[`0x72c590349535AD52e6953744cb2A36B409542719`](https://etherscan.io/address/0x72c590349535AD52e6953744cb2A36B409542719)​
+
+DebtToken
+
+​[`0x4591DBfF62656E7859Afe5e45f6f47D3669fBB28`](https://etherscan.io/address/0x4591DBfF62656E7859Afe5e45f6f47D3669fBB28)​
+
+Factory
+
+​[`0x70b66E20766b775B2E9cE5B718bbD285Af59b7E1`](https://etherscan.io/address/0x70b66E20766b775B2E9cE5B718bbD285Af59b7E1)​
+
+GasPool
+
+​[`0xE0598D793bAf7b4f49F4a003885E4180B28caB61`](https://etherscan.io/address/0xE0598D793bAf7b4f49F4a003885E4180B28caB61)​
+
+LiquidationManager
+
+​[`0x5de309dfd7f94e9e2A18Cb6bA61CA305aBF8e9E2`](https://etherscan.io/address/0x5de309dfd7f94e9e2A18Cb6bA61CA305aBF8e9E2)​
+
+PriceFeed
+
+​[`0xC105CeAcAeD23cad3E9607666FEF0b773BC86aac`](https://etherscan.io/address/0xC105CeAcAeD23cad3E9607666FEF0b773BC86aac)​
+
+PrismaCore
+
+​[`0x5d17eA085F2FF5da3e6979D5d26F1dBaB664ccf8`](https://etherscan.io/address/0x5d17eA085F2FF5da3e6979D5d26F1dBaB664ccf8)​
+
+StabilityPool
+
+​[`0xed8B26D99834540C5013701bB3715faFD39993Ba`](https://etherscan.io/address/0xed8B26D99834540C5013701bB3715faFD39993Ba)​
+
+Deployer Address
+
+​[`0xd8531a94100f15af7521a7B6E724aC4959E0A025`](https://etherscan.io/address/0xd8531a94100f15af7521a7b6e724ac4959e0a025)​
+
+### 
+
+Prisma DAO[](#prisma-dao)
+
+Contract
+
+Address
+
+AdminVoting
+
+​[`0xC53baAAA8595A7A2E7Fee71dB7291b939F696734`](https://etherscan.io/address/0xC53baAAA8595A7A2E7Fee71dB7291b939F696734)​
+
+BoostCalculator
+
+​[`0x31ae4cbfaFB007a908F348Cf95Ce4b535D5A8fa3`](https://etherscan.io/address/0x31ae4cbfaFB007a908F348Cf95Ce4b535D5A8fa3)​
+
+EmissionSchedule
+
+​[`0x906E0d769Aae4fb3f53d3C989a50520a8e851F42`](https://etherscan.io/address/0x906E0d769Aae4fb3f53d3C989a50520a8e851F42)​
+
+IncentiveVoting
+
+​[`0xfd8DF0Db401Ab7EC7a06a8465134FA32132e850C`](https://etherscan.io/address/0xfd8DF0Db401Ab7EC7a06a8465134FA32132e850C)​
+
+PrismaToken
+
+​[`0xdA47862a83dac0c112BA89c6abC2159b95afd71C`](https://etherscan.io/address/0xdA47862a83dac0c112BA89c6abC2159b95afd71C)​
+
+PrismaVault
+
+​[`0x06bDF212C290473dCACea9793890C5024c7Eb02c`](https://etherscan.io/address/0x06bDF212C290473dCACea9793890C5024c7Eb02c)​
+
+TokenLocker
+
+​[`0x3f78544364c3eCcDCe4d9C89a630AEa26122829d`](https://etherscan.io/address/0x3f78544364c3eCcDCe4d9C89a630AEa26122829d)​
+
+### 
+
+Staking[](#staking)
+
+Contract
+
+Address
+
+ConvexFactory
+
+​[`0x3dA992F4694d1a1624c32CAFb5E57fE75B4Bc867`](https://etherscan.io/address/0x3dA992F4694d1a1624c32CAFb5E57fE75B4Bc867)​
+
+CurveFactory
+
+​[`0x2664a7B123e7E6b5CC5cf6a76Cf65e409BD1569F`](https://etherscan.io/address/0x2664a7B123e7E6b5CC5cf6a76Cf65e409BD1569F)​
+
+CurveProxy
+
+​[`0x490b8C6007fFa5d3728A49c2ee199e51f05D2F7e`](https://etherscan.io/address/0x490b8C6007fFa5d3728A49c2ee199e51f05D2F7e)​
+
+### 
+
+Fees[](#fees)
+
+Contract
+
+Address
+
+FeeConverter
+
+​[`0x72625102868F56bc9696c91090938718d3804333`](https://etherscan.io/address/0x72625102868F56bc9696c91090938718d3804333)​
+
+FeeDistributor
+
+​[`0x62253F7c165e34fd7343b37839bf5186a9E21D4a`](https://etherscan.io/address/0x62253F7c165e34fd7343b37839bf5186a9E21D4a)​
+
+FeeReceiver
+
+​[`0xfdCE0267803C6a0D209D3721d2f01Fd618e9CBF8`](https://etherscan.io/address/0xfdCE0267803C6a0D209D3721d2f01Fd618e9CBF8)​
+
+​
+
+### 
+
+Helpers[](#helpers)
+
+Contract
+
+Address
+
+MultiCollateralHintHelpers
+
+​[`0x3C5871D69C8d6503001e1A8f3bF7E5EbE447A9Cd`](https://etherscan.io/address/0x3C5871D69C8d6503001e1A8f3bF7E5EbE447A9Cd)​
+
+MultiTroveGetter
+
+​[`0x58fa5521f48b258B5e48A56b9B1bd95bFFA1eb1C`](https://etherscan.io/address/0x58fa5521f48b258B5e48A56b9B1bd95bFFA1eb1C)​
+
+TroveManagerGetters
+
+​[`0xc9C2D0bFb9860AD89a91D2069A8d73A6f903e9C4`](https://etherscan.io/address/0xc9C2D0bFb9860AD89a91D2069A8d73A6f903e9C4)​
+
+### 
+
+Airdrop[](#airdrop)
+
+Github: [https://github.com/prisma-fi/airdrop-proofs](https://github.com/prisma-fi/airdrop-proofs)​
+
+Contract
+
+Address
+
+AirdropDistributor
+
+(veCRV voters)
+
+​[`0xd49d86B001Fe35bc745Bc6E467B3cc18Cb14b817`](https://etherscan.io/address/0xd49d86B001Fe35bc745Bc6E467B3cc18Cb14b817)​
+
+AirdropDistributor
+
+(early users)
+
+​[`0x4Bd112ffF755C24C103AdF5879ee914781b99c62`](https://etherscan.io/address/0x4Bd112ffF755C24C103AdF5879ee914781b99c62)​
+
+### 
+
+Peripheral[](#peripheral)
+
+Github: [https://github.com/prisma-fi/prisma-periphery](https://github.com/prisma-fi/prisma-periphery)​
+
+Contract
+
+Address
+
+StakeNTroveZap
+
+​[`0xBE600484613d33384CA2B102830562f908F45217`](https://etherscan.io/address/0xBE600484613d33384CA2B102830562f908F45217)​
+
+CurveDepositZap
+
+​[`0xd9093A0B2687cff5c0936BC3B2FAB3563AdAb57B`](https://etherscan.io/address/0xd9093A0B2687cff5c0936BC3B2FAB3563AdAb57B)​
+
+​
+
+
+######## ./knowledge-base\faq.md
+
+# FAQ
+
+### What is the Prisma Protocol?
+
+Prisma is a decentralized borrowing protocol that allows users to mint a stablecoin, mkUSD, that is fully collateralized by liquid staking tokens.
+
+In addition to the collateral, the loans are secured by a Stability Pool containing mkUSD and by fellow borrowers collectively acting as guarantors of last resort. Learn more about these mechanisms under liquidations.
+
+Prisma as a protocol is non-custodial, immutable, and censorship-resistant. Learn more about the protocol here.
+
+### How do I use the Prisma Protocol?
+
+To create a new vault, earn, or vote on governance proposals, head over to the Prisma interface and connect a Web3 wallet. Be aware that each transaction on Ethereum costs Ether (ETH). For a more detailed walkthrough, check out our Help Guides.
+
+If you're a developer interested in building on top of the Prisma Protocol, please refer to our extensive docs.
+
+### How does the Prisma Protocol work?
+
+Prisma is a borrowing protocol. In practical terms, it is a collection of smart contracts that define a standard way to deposit collateral, mint mkUSD, and liquidate positions.
+
+A vault is where you take out and maintain your loans against a specific collateral type.
+
+For a more in-depth description, check out the concepts from the documentation.
+
+### What are the benefits of using Prisma?
+
+Prisma offers a capital-efficient borrowing experience with:
+
+*   A minimum collateral ratio of `120%`
+*   Ability to deposit multiple collateral types
+*   Directly redeemable - mkUSD can be redeemed at face value for the underlying collateral, at any time
+*   Censorship resistant
+    
+
+Prisma is also attractive to LST issuers as vePRISMA holders are incentivized to mint mkUSD with their own LST, along with redirecting emissions to specific LSTs on Prisma.
+
+### What is boost?
+
+Vote locking is a feature on Prisma where PRISMA is locked in return for vePRISMA. The longer the time period that PRISMA is locked for, the more vePRISMAs are received. The minimum locking period is 1 week and the maximum period is 52 weeks.
+
+One of the major incentives of vote-locking PRISMA is the ability to boost your PRISMA emissions. This means that a vault with "max boost" earns PRISMA rewards at 2x the rate of a vault that is un-boosted.
+
+
+######## ./knowledge-base\glossary.md
+
+# Glossary
+
+*   **Vault Collateral Ratio:** The collateral ratio is the ratio between the US Dollar value of the collateral in an vault and its debt in `mkUSD`.
+    
+
+*   **Emission Boost**: By locking PRISMA rewards, users have the opportunity to boost (i.e., increase) the rewards they receive while participating in eligible liquidity pools. The amount of boost depends on how much PRISMA they have locked and their proportional stake in the pool. In other words, the more PRISMA they lock and the larger their stake in the pool, the higher the boost to their rewards.
+    
+
+*   **Loan-to-Value (LTV)**: The Loan-to-Value ratio defines the maximum amount of `mkUSD` that can be minted with a specific collateral. It is expressed as a percentage (e.g., at LTV=80%, for every 1 ETH worth of collateral, minters will be able to mint 0.80 ETH worth of `mkUSD`). Once a mint occurs, the LTV changes with market conditions.
+    
+
+*   **Liquidation Penalty**: The liquidation penalty is a fee rendered on the price of assets of the collateral when liquidators purchase it as part of the liquidation of a loan that has passed the liquidation threshold.
+    
+
+*   **Liquidation Price**: The liquidation price of an vault is the price at which the position becomes subject to liquidation. During Normal Mode this happens when the collateral value drops below the Minimum Collateral Ratio (MCR) of `120%`. During Recovery Mode this is calculated based on a Collateral Ratio of `150%.`
+    
+
+*   **Liquidity**: Liquidity based on on-chain liquidity and trading volume, is key for the liquidation process. These can be mitigated through the caps and liquidation parameters (i.e., the lower the liquidity, the higher the incentives).
+    
+
+*   **Locking** Locking refers to the process of locking PRISMA tokens in order to participate in gauge weight or governance votes and claim protocol rewards.
+    
+
+*   **Market Capitalization**: Market cap—or market capitalization—refers to the total value of all a protocols tokens.
+    
+    *   It is an important measure of a market's size, particularly in the context of using assets as collateral. When dealing with assets with smaller market capitalizations, the risk is somewhat limited, but these assets tend to be more prone to price fluctuations as they are generally still in their early stages of development. On the other hand, a higher market capitalization typically indicates a more established market ecosystem with greater trading activity, making it easier to liquidate assets without significantly affecting their prices.
+        
+    
+    *   Both the Market Capitalization and the Liquidity are crucial for assessing and managing the risks associated with liquidation.
+        
+    
+
+*   **Minimum Collateral Ratio (MCR)**: The minimum collateral ratio (MCR) is the lowest ratio of debt to collateral that will not trigger a liquidation under normal operations (aka Normal Mode). This is a protocol parameter that is set to `120%`.
+    
+
+*   **Recovery Mode:** Recovery Mode is activated when the Global Total Collateral Ratio (**GTCR**) of the system dips below `150%`. In this state, any vault with a collateral ratio less than the GTCR is subject to liquidation.
+    
+
+*   **Redemption:** refers to the act of exchanging `mkUSD` for the underlying collateral
+    
+
+*   **Stability Pool:** The Stability Pool is the primary safeguard to ensure the solvency of the system, by providing the required liquidity to cover debts from liquidated vaults, thus ensuring that the total `mkUSD` supply always remains adequately collateralized.
+    
+
+*   **Volatility**: Price volatility can negatively affect the collateral which must cover liabilities and safeguards the solvency of the protocol. The risk of the collateral falling below the borrowed amounts can be mitigated through the level of coverage required through the LTV. It also affects the liquidation process as the margin for liquidators needs to allow for profit.
+    
+
+
+
+######## ./knowledge-base\understanding-cvxprisma.md
+
+# Understanding cvxPRISMA
+
+Information regarding the cvxPRISMA and how to use it in Convex Finance
+
+#### cvxPRISMA is tokenized vePRISMA
+
+*   If a user deposits PRISMA into Convex, that PRISMA is locked forever on the platform as vePRISMA.
+*   A tokenized version of vePRISMA,, cvxPRISMA, is returned to the user at a 1:1 rate.
+*   cvxPRISMA conversion is unidirectional. Liquidity pools may exist that allow users to swap cvxPRISMA for PRISMA tokens.
+    
+#### cvxPRISMA Staking
+
+*   cvxPRISMA can be staked on Convex to receive a portion of fees one would get for staking their vePRISMA on Prisma Finance, as PRISMA.
+    
+Additionally, users staking cvxPRISMA may receive the platform native token CVX.
+
+
+######## ./knowledge-base\understanding-yprisma.md
+
+# yPRISMA
+
+Claim and deposit at [yprisma.yearn.fi](https://yprisma.yearn.fi)
+
+## What is yPRISMA?
+
+yPRISMA is Yearn's latest liquid locker, built for Prisma Finance's governance token. It's important to know the basics of liquid locker token like yPRISMA:
+
+- Represents 1 vePRISMA max-locked to Yearn 
+- Not redeemable for the underlying locked PRISMA
+- Has no transfer restrictions and can always be swapped in DEX pools
+
+Governance for Prisma is controlled by vePRISMA, a locked token position that grants users voting power, fee revenue, and boosted PRISMA emissions.
+
+Because all PRISMA emissions come as locked vePRISMA, it is often inconvenient for users who want to avoid managing their position or want to cash out. yPRISMA aims to offer users a tokenized version of this position, giving them instant liquidity and auto-managing governance participation to maximize yield.
+
+With built-in boost delegation coming soon, users who hold yPRISMA will be able to boost their yields on any of their positions within the Prisma ecosystem, including:
+
+- Prisma Vaults (CDPs)
+- Stability Pool
+- Curve / Convex Farming
+- Yearn vault farming (coming soon!)
+
+## How do I obtain yPRISMA?
+
+There are a few ways to get yPRISMA:
+
+- Buy yPRISMA from the Curve pool
+- Claim your emissions directly from yPRISMA from https://prismafinance.com and see more info here: https://yprisma.yearn.fi/
+- Mint 1:1 directly from PRISMA tokens
+- Claim your PRISMA airdrop directly to yPRISMA
+
+## Why would I claim my emissions as yPRISMA?
+There are several key reasons to claim your emissions as yPRISMA instead of locking yourself.
+1. When minting yPRISMA, you get to utilize Yearn's boost, which is among the highest of total Prisma accounts.
+1. yPRISMA is minted 1:1 against your max locked claim amount.
+1. yPRISMA is fully transferrable and can be swaped on DEXes like Curve, or staked for benefits in the ecosystem.
+
+
+## How can I claim my emissions as yPRISMA?
+1. Browse to https://app.prismafinance.com/rewards
+1. Select "Lock All"
+
+   <img src="https://i.imgur.com/FKpkwcG.png" alt="Liquid Lockers" width="300" />
+    
+1. In the modal, choose "Liquid Lockers"
+
+    <img src="https://i.imgur.com/tVEGdkI.png" alt="Liquid Lockers" width="500" />
+
+1. Tick the checkbox for Yearn's `yprisma.eth` delegator and press "Confirm".
+
+    <img src="https://i.imgur.com/NVvfVUG.png" alt="Liquid Lockers" width="700" />
+
+When the transaction is complete, congratulations! You now have yPRISMA tokens in your wallet!
+
+## What can I do with my yPRISMA?
+
+Until Prisma governance begins distributing fee revenue, the best thing to do with your yPRISMA is to farm wstETH or dYFI yield on [yprisma.yearn.fi](https://yprisma.yearn.fi).
+
+## Addresses
+
+##### Core Protocol
+| Name                                             | Address                                                                                                                 |
+|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| yPRISMA                                          | [`0xe3668873d944e4a949da05fc8bde419eff543882`](https://etherscan.io/address/0xe3668873d944e4a949da05fc8bde419eff543882) |
+| yPRISMA Locker                                   | [`0x90be6DFEa8C80c184C442a36e17cB2439AAE25a7`](https://etherscan.io/address/0x90be6DFEa8C80c184C442a36e17cB2439AAE25a7) |
+
+##### Staking Farms
+| Name                                             | Address |
+|--------------------------------------------------|------------------------------------------------------------|
+| yPRISMA Staking (yvmkUSD-A rewards)       |       [`0xE3EE395C9067dD15C492Ca950B101a7d6c85b5Fc`](https://etherscan.io/address/0xE3EE395C9067dD15C492Ca950B101a7d6c85b5Fc) |
+| *yPRISMA Staking (wstETH rewards)          |       [`0x774a55C3Eeb79929fD445Ae97191228Ab39c4d0f`](https://etherscan.io/address/0x774a55C3Eeb79929fD445Ae97191228Ab39c4d0f) |
+| *yPRISMA Staking (dYFI rewards)            |       [`0x93283184650f4d3B4253ABd00978176732118428`](https://etherscan.io/address/0x93283184650f4d3B4253ABd00978176732118428) |
+| *yPRISMA LP Staking (yPRISMA rewards)                        |       [`0x6806D62AAdF2Ee97cd4BCE46BF5fCD89766EF246`](https://etherscan.io/address/0x6806D62AAdF2Ee97cd4BCE46BF5fCD89766EF246) |
+| *yCRV Staking (yPRISMA rewards)            |       [`0x84c94d739e075b3C7431bdb1A005F0412DF828a5`](https://etherscan.io/address/0x84c94d739e075b3C7431bdb1A005F0412DF828a5) |
+**expired*
+
+## Read More
+
+- [yPRISMA Roadmap](https://medium.com/iearn/yprisma-roadmap-8fb3e2376594)
+- [Introduction to Yearn PRISMA Incentives Farming](https://docs.yearn.finance/getting-started/products/yprisma/farming)
+
+# yPRISMA FAQ
+
+The Prisma Wars are officially underway, which means full steam ahead for yPRISMA: Yearn's newest tokenized locker product.
+
+Yearn has claimed its PRISMA airdrop as yPRISMA and is preparing to distribute these tokens to yCRV users and yPRISMA LPs. 
+
+This post will outline exactly how that will work.
+
+### What's happening with Yearn's veCRV Airdrop?
+
+The roughly 280,000 yPRISMA tokens minted from Yearn's airdrop claim will be distributed across two simple staking contracts: yCRV and yPRISMA LPs.
+
+If you are a user in the yCRV ecosystem you may migrate your position by withdrawing to vanilla yCRV and depositing it into the new staking contract on https://yprisma.yearn.fi to earn yPRISMA rewards.
+
+## What do I do with yPRISMA?
+
+The yPRISMA ecosystem aims to deliver a user experience similar to yCRV, which passes all protocol yield earned by Yearn's position along to users.
+
+A staking contract is available on the yPRISMA [website](https://yprisma.yearn.fi/), allowing users to stake their yPRISMA to earn protocol fees and bribes.
+
+## Can yPRISMA users vote in Primsa?
+
+Weekly incentive voting is automated to optimize for the maximum weekly bribe yield.
+
+There is active research on Prisma governance proposals to determine how to pass Yearn's voting power along to yPRISMA users.
+
+## How can I buy yPRISMA?
+
+You can purchase yPRISMA through the following platforms:
+
+- **Curve LP**: The primary liquidity source for yPRISMA is on Curve. You can swap for yPRISMA [here](https://curve.fi/#/ethereum/swap?from=0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee&to=0xe3668873d944e4a949da05fc8bde419eff543882).
+- **CowSwap**: DEX aggregators like CowSwap should also work well, which you can access [here](https://swap.cow.fi/#/1/swap/ETH/YPRISMA).
+
+## How do I mint yPRISMA directly?
+
+To mint yPRISMA you must claim your emissions earned in PRISMA as yPRISMA.
+
+All emissions in Prisma come as locked vePRISMA. Prisma allows protocols like Yearn to plug into the "claim rewards" function, so the user gets yPRISMA and vePRISMA goes to Yearn (which uses it to boost yPRISMA strategy in our staking [contract](https://yprisma.yearn.fi/)).
+
+There is a complete guide on how to claim through Prisma [here](https://docs.yearn.fi/getting-started/products/ylockers/yprisma/overview#how-can-i-claim-my-emissions-as-yprisma)
+
+vePRISMA is not tradeable, yPRISMA is tradeable, allowing you to avoid the 50% penalty associated with unlocking vePRISMA directly.
+
+## What are the fees associated with yPRISMA?
+
+When you stake yPRISMA, a performance fee is applied to the yield collected over the week. Here's how it works:
+
+- Yield accumulates in the receiver contract throughout the week.
+- The yield is distributed once per week, with 10% going to the Yearn treasury and the rest to the stakers.
+
+## Where does the yield come from and how does it flow?
+
+The yield for yPRISMA stakers comes from several sources:
+
+- **Protocol Fees**: Fees generated from the Prisma protocol.
+- **Bribes**: Incentives provided for voting power.
+- **Boost Rental Fees**: Fees from users renting boost from Yearn's vePRISMA.
+
+All these yields are claimed to the yPRISMA fee receiver at [`0x76DF88Aa8711822472Cb40Ed8c972A461A20ecdc`](https://etherscan.io/address/0x76DF88Aa8711822472Cb40Ed8c972A461A20ecdc).
+
+At the beginning of each week, the collected yield is converted to mkUSD (Prisma Stablecoin), deposited into the yvmkUSD-A vault, and then distributed to stakers. This process occurs once per week, and the yield is streamed evenly over the entire week.
+
+## What is yvmkUSD-A?
+
+yvmkUSD-A is a Yearn v3 vault that allows yield to auto-compound. Currently, there is no active strategy for compounding, but a strategy is nearly completed and will undergo reviews soon.
+
+
+######## ./knowledge-base\what-is-prisma.md
+
+# 🌈 What is Prisma Finance
+
+A non-custodial and decentralized Ethereum LST-backed stablecoin.
+
+Prisma is a new DeFi primitive focused on realizing the full potential of Ethereum liquid staking tokens (LSTs). Prisma enables users to mint a stablecoin, **mkUSD,** that is fully collateralized by liquid staking tokens. The stablecoin will be incentivized on Curve and Convex Finance to create a capital-efficient flywheel where users can receive trading fees, CRV, CVX, and PRISMA on top of their Ethereum staking rewards. The Prisma codebase is completely immutable, based on Liquity, creating a robust protocol and truly decentralized stablecoin with favorable and flexible collateral parameters. These features make it attractive for those wanting to get the best out of their LSTs without tail risks from other stablecoins. The Prisma DAO will be in charge of parameters, emissions, and protocol fees.
+
+### Who uses Prisma?
+
+Prisma is an incredibly useful tool for a diverse set of actors within the DeFi space.
+
+Holders of liquid staking tokens can make their assets more productive, by using them as collateral to mint a stablecoin (mkUSD) to partake across DeFi.
+
+Issuers of liquid staking tokens benefit from using Prisma as they can incentivize actions on Prisma that would help deepen the liquidity of their liquid staking token.
+
+*   Incentivize minting mkUSD with their own LST
+*   Redirecting emissions toward minting with a certain collateral
+*   Redirecting emissions to keep an active borrow with a certain collateral
+*   Redirecting emissions to any LP tokens staker that may be relevant to Prisma
+    
+
+### Communication Channels
+
+*   ​[Discord](https://discord.gg/prismafinance)​
+*   ​[Twitter](https://twitter.com/PrismaFi)​
+*   ​[Blog](https://mirror.xyz/prismafinance.eth)​
+    
+
+######## ./knowledge-base\asset-risk\adding-an-asset.md
+
+# Adding an Asset
+
+When adding an asset to Prisma a thorough analysis must be made by the Prisma community to ensure that the asset will add more value than risk to the protocol. The initial step for any asset to be added to Prisma is to request an asset risk assessment by the independent Prisma Risk team. The asset risk assessment offers a framework to assess and compare risks the asset might have to the protocol, and how to calibrate model asset parameters to mitigate those risks.
+
+After assessing all the risks of the asset, a DAO proposal is required to be drafted by the individual or team looking to add an asset as collateral on Prisma. The Prisma DAO will assess the asset risk assessment and the proposal and vote on whether the asset should be listed as collateral on Prisma.
+
+
+######## ./knowledge-base\asset-risk\introduction.md
+
+# Introduction
+
+This documentation presents a framework to assess asset risks for Prisma Finance. The risk methodology considers market, economic design, technological, and counterparty risks for the assets selected for the Prisma Protocol, aiming to contribute to higher risk standards within DeFi. The following reports and information have been gathered by the independent Prisma Risk Team and represent their vision.
+
+
+######## ./knowledge-base\asset-risk\methodology.md
+
+# Methodology
+
+Risk reports are conducted by the [Prisma independent risk and research team](https://twitter.com/PrismaRisk) operated by [Llama Risk](https://twitter.com/LlamaRisk) as part of a series on LST collateral risk assessments.
+
+These reports will comprehensively cover all relevant risk factors of a specific collateral. The Prisma Risk Team approach involves both quantitative and qualitative analysis to help determine whether the collateral can be safely onboarded and to what extent there should be restrictions on the protocol’s exposure to the collateral.
+
+As Prisma will be onboarding a variety of LSTs as collateral, these reviews involve comparative analysis to determine suitability as collateral. Risks are categorized into:
+
+*   **Market Risk** - risks related to market liquidity and volatility
+*   **Technology Risk** - risks related to smart contracts, dependencies, and oracle price feeds
+*   **Counterparty Risk** - risks related to governance, centralization vectors, and legal/regulatory considerations
+    
+
+
+######## ./knowledge-base\asset-risk\risk-parameters.md
+
+## Risk Parameters
+
+Each asset within the Prisma Protocol has specific values related to their risk, which influences how they are supplied and how mkUSD is minted within the protocol. It is crucial for the Prisma community to understand the underlying risk of each asset: assess the smart contract security, understand the risks of centralization and market risks. Onboarded assets, onboard their risk to the Prisma protocol. Prisma sets out to safely onboard collateral with risk mitigation parameters.
+
+### Risk Parameters Analysis
+
+The risk parameters mitigate the market risks of the collateral supported by the Prisma protocol. Each mkUSD that is minted is based on over-collateralization with one of the listed collaterals on Prisma as backing. Sufficient margin and incentives are needed for the position to remain collateralized in the event of adverse market conditions. If the value of the collateral falls below a predetermined threshold, the vault will be auctioned off to repay the debt position.
+
+Market risks can be mitigated through Prisma's risk parameters, which define collateralization and liquidation rules. These parameters are calibrated on a per asset basis to account for the specific risks identified.
+
+#### Supply Caps
+
+Supply caps define the maximum amount of an asset that can be supplied to the protocol. Supply caps can be used to limit the protocol's exposure to riskier assets. A supply cap is an optional parameter, and the value will depend on on-chain liquidity of the asset and total volume of collateral assets in the pool.
+
+​
+
+######## ./knowledge-base\asset-risk\risk-per-asset.md
+
+# Risk per Asset
+
+This section showcases the results of the risk assessment provided by PrismaRisk.
+
+## Lido wstETH
+
+Full report from Prisma Risk Team: [https://hackmd.io/@PrismaRisk/wsteth](https://hackmd.io/@PrismaRisk/wsteth) This section will summarize the findings of the report by highlighting the most significant risk factors in each of the three risk categories: Market Risk, Technology Risk, and Counterparty Risk.
+
+#### 1\. Market Risk
+
+_LIQUIDITY: Does the LSD have a liquid market that can facilitate liquidations in all foreseeable market events?_
+
+Lido is a clear market leader, commanding over 70% of the LSD market since its inception in December 2021. It has been integrated widely as collateral into several DeFi lending protocols such as MakerDAO and Aave, and has over $600m worth of liquidity on DEXs such as Curve and Balancer. The [DeFillama Liquidity Tool](https://defillama.com/liquidity) estimates a swap size of $300m (158k stETH) would be required to produce >1% slippage. stETH/wstETH account for 2/3 of all LSD trading volume, and its strong standing against competitors does not appear to be waning.
+
+_VOLATILITY: Has the LSD had any significant depeg event (post merge)?_
+
+Arriving at the merge in September 2022, stETH had been experiencing a prolonged depeg event since the Terra collapse in May 2022. It recovered around the time of the merge, but experienced a second, relatively minor depeg in November 2022. A whale [removed 88,131](https://twitter.com/lookonchain/status/1595719510387875840?s=20) ETH from the stETH/ETH pool, causing a sharp depeg to .9682 that did not completely recover until January 2023.
+
+Since ETH withdrawals have been activated in April 2023, the liquid staking basis has markedly stabilized, meaning stETH has maintained a consistent peg against ETH. We do observe, however, that staking yields have been declining as demand for staking continues to boom. Reduced yields may affect demand for LSDs such as stETH, resulting in the need to process large amounts of withdrawals.
+
+Withdrawals are not instantaneous and can take weeks to process if the exit queue is long or a major slashing event occurs. Tumultuous market circumstances or network problems within Lido or Ethereum at large may precipitate a depeg in the future that cannot be immediately arbitraged.
+
+#### 2\. Technology Risk
+
+_SMART CONTRACTS: Does the analysis of the audits and development activity suggest any cause for concern?_
+
+Lido V2 codebase has undergone extensive audits in 2023 by various auditing firms including Oxorio, Statemind, Hexens, MixBytes, and Certora. There is also an active bug bounty program with ImmuneFi since May 2021. Lido discloses network problems that result in losses in their Post Mortem blog. Losses have historically been minimal, and where applicable, Lido has reimbursed affected users.
+
+The recent upgrade to Lido V2 in May 2023 allows additional functionality, including ETH withdrawals. This increases the uncertainty of smart contract security due to the short duration on mainnet.
+
+_DEPENDENCIES: Does the analysis of dependencies (e.g. oracles) suggest any cause for concern?_
+
+In case of no finality on the Consensus Layer, Lido’s oracle daemons may stop pushing regular updates (set to 225 epochs or 1 day), preventing rebases from taking place. If sanity checks fail (on max APR or total staked amount drop), this could cause significant disruptions in Lido’s operations, including incorrect distribution of rewards and liquidity mismanagement.
+
+Due to extreme market events on November 9 and 11, 2022, a protocol-enforced sanity check was erroneously triggered that prevented Oracle updates and caused a disruption in rewards distribution. The event was documented in this [post mortem](https://blog.lido.fi/postmortem-disrupted-rewards-distribution-due-to-missed-oracle-reports/).
+
+Lido has a reliable Chainlink pricefeed oracle available for both stETH/ETH and stETH/USD pairs.
+
+#### 3\. Counterparty Risk
+
+_CENTRALIZATION: Are there any significant centralization vectors that could rug users?_
+
+Concerning smart contract access control, Lido has taken precautions to protect contract upgrades and other critical system controls behind an Aragon DAO governed by LDO tokenholders. For convenience, EasyTrack optimistic voting is used for a limited subset of recurring vote types. LDO has never experienced a governance attack, and while it may be theoretically exposed to such a risk by not requiring a lock to participate in governance, LDO does not realistically have market liquidity or presence on lending platforms to be a concern at this time.
+
+A number of multisigs have privileges limited to specific functions, such as the GateSeal committee’s ability to emergency pause the system. The GateSeal further decreases the likelihood of a governance attack, although with the tradeoff of requiring trust in the committee to take necessary action.
+
+Lido also takes measures to decentralize its permissioned set of node operators by monitoring the distribution of stake across NOs, and diversity metrics such as clients, staking infrastructure, and geographies of operation. These precautions minimize the risk of a major slashing event.
+
+In short, users are required to trust in the reliable performance of third-party NOs, but Lido has taken precautions to avoid centralization of the NO network.
+
+_LEGAL: Does the legal analysis of the protocol suggest any cause for concern?_
+
+While the regulatory climate surrounding DAO and DeFi remains uncertain, it is unclear how an enforcement action might be carried out against a DAO. As Lido is governed by LDO tokenholders, legal action is unlikely to disrupt the platform’s operations. A potential centralization risk is from the large proportion of NOs operating in Europe (60% of ETH staked in Lido), which increases the network’s risk exposure to regulatory action in those jurisdictions.
+
+There is no discernible evidence that Lido has been involved with any unlawful activities and it has not received any enforcement actions. The interface [Terms of Use](https://lido.fi/terms-of-use) takes reasonable precautions to limit Lido’s liability. While enforcement actions are always a possibility in an uncertain regulatory climate, Lido appears to be reasonably protected.
+
+#### 4\. Risk Rating
+
+Based on the risks identified for each category, the following chart summarizes a risk rating for wstETH as collateral. The rating for each category is ranked from excellent, good, ok, and poor.
+
+*   We rank wstETH **excellent on liquidity** for being the clear market leader with deepest liquidity.
+*   We rank wstETH **ok in volatility** due to multiple depeg events pre-Shanghai and a high level of uncertainty about withdrawal processing, which may inhibit arbitrage.
+*   We rank wstETH **good in smart contracts** for being heavily audited, having a bug bounty program, and having a long history securing billions in TVL without major incident. The recent upgrade to V2 increases smart contract uncertainty.
+*   We rank wstETH **good in dependencies** for having a reliable pricefeed available. Dependency of lido oracle daemons can result in disruptions that can cause incorrect reward distribution or liquidity mismanagement.
+*   We rank wstETH **good in centralization** for having core system controls with a DAO that has reasonable backstop measures. Multiple multisigs are employed with limited privileges for specific precautionary functions.
+*   We rank wstETH **good in legal** for having no enforcement actions historically, Lido limits liability in their terms and conditions and decentralization is sufficient that legal action is unlikely to disrupt the network. A concentration of NOs in Europe increases vulnerability in those jurisdictions.
+    
+    ![](https://content.gitbook.com/content/1tAi6RdL45CCiZaxKFFS/blobs/MN6Bo7k5zOOtziGbTGUK/image.png)
+    
+
+The overall risk profile and persistently dominant market standing of Lido make wstETH suitable as a core collateral type within Prisma. All additional LSDs reviewed will undergo a comparative analysis against Lido to determine how well they complement wstETH for suitability within the collateral basket.
+
+## RocketPool rETH
+
+Full report from Prisma Risk Team: [https://hackmd.io/@PrismaRisk/rETH](https://hackmd.io/@PrismaRisk/rETH) This section will summarize the findings of the report by highlighting the most significant risk factors in each of the three risk categories: Market Risk, Technology Risk, and Counterparty Risk.
+
+#### Market Risk
+
+**LIQUIDITY: Does the LSD have a liquid market that can facilitate liquidations in all foreseeable market events?**
+
+rETH ranks thirds in the LSD category by marketcap with ~1.61b in TVL. Its liquidity is primarily on-chain across several DEXs (Balancer, Curve, PancakeSwap, and Uniswap). Of the liquidity venues, there is not a dominant DEX by trade volume, although Uniswap makes up a high portion of trade volume compared to its low TVL. The Curve rETH/ETH pool ($9.04m) and Balancer rETH/ETH pool ($80.87m) represent the main sources of liquidity backing rETH’s stability.
+
+When comparing its liquidity to marketcap, ~4.4% of the total token supply is on exchange. stETH ranks somewhat lower at ~3%. According to the DeFiLlama Token Liquidity tool, a rETH>ETH trade of $38.22m would produce a 1% slippage compared to a $300m swap required from stETH>ETH. While stETH is substantially more liquid overall, rETH performs on par in terms of liquidity depth given its substantially lower TVL (rETH has 10.75% the amount of ETH staked compared to stETH).
+
+**VOLATILITY: Has the LSD had any significant depeg event (post merge)?**
+
+Post-merge, rETH has not experienced a negative depeg against ETH. In fact, post-merge from November '22 until March '23, rETH depegged to the upside, at some point trading at a over 2% premium to fair value.
+
+Source: [Dune Analytics](https://dune.com/rp_community/lst-comparison)​
+
+Since withdrawals were activated in mid-April, rETH has kept a strong peg to ETH and has no significant depeg to the downside. However, the withdrawal mechanism requires that users deposit fresh ETH into the system or node operators exit their minipools (or rewards are distributed) to make ETH available for withdrawals. It is conceivable that in some circumstances, there may not be enough ETH available to facilitate arbitrage during a severe market event.
+
+#### Technology Risk
+
+**SMART CONTRACTS: Does the analysis of the audits and development activity suggest any cause for concern?**
+
+The Rocketpool protocol has gone through several audits:
+
+*   ​[Consensys Audit](https://consensys.net/diligence/audits/2021/04/rocketpool/#rocketpool-cli---lax-data-validation-and-output-sanitation) released April 2021
+*   ​[Sigma Prime Audit](https://rocketpool.net/files/sigma-prime-audit.pdf) released May 2021
+*   ​[Trail Of Bits Audit](https://github.com/trailofbits/publications/blob/master/reviews/RocketPool.pdf) released September 9 2021
+*   ​[Sigma Prime Audit](https://rocketpool.net/files/sigma-prime-fix-review.pdf) released November 2021
+*   ​[Consensys Audit- Atlas (v1.2)](https://consensys.net/diligence/audits/2023/01/rocket-pool-atlas-v1.2/) released January 2023
+    
+
+The commit history is not sparse, it can be seen that regular updates are being made over the year. The [Atlas Update](https://docs.rocketpool.net/guides/atlas/whats-new.html) was deployed in April. The new contracts were audited, but have added additional functionality and there may be unfound bugs or unintended change in the behavior of the system.
+
+**DEPENDENCIES: Does the analysis of dependencies (e.g. oracles) suggest any cause for concern?**
+
+Due to limitations of the Ethereum network requiring an oracle to communicate state between the consensus and execution layer, Rocket Pool makes use of an oDAO composed of a whitelisted subset of node operators.
+
+These oracles push updates about system balances that update the rETH:ETH exchange rate, vote on introducing contract upgrades, facilitate onboarding/offboarding validators, and are necessary to process rewards. The oDAO can add or remove members and currently stands at 18 members with a consensus of 10 required to execute actions.
+
+There is a Chainlink price feed available for rETH/ETH that can be considered highly reliable.
+
+#### Counterparty Risk
+
+**CENTRALIZATION: Are there any significant centralization vectors that could rug users?**
+
+There is a strong trust assumption in the honest and reliable behavior of the oDAO members. The oDAO performs a number of responsibilities that effectively custody user funds. The oDAO can choose to push any price or exchange rate update and can update system contracts, both of which could result in loss of user funds if the oDAO misbehaves.
+
+The pDAO EOA guardian is also trusted to set sensible parameters for the system and to custody Treasury funds. There is a proposal in the research phase to transition to an on-chain DAO and deprecate the guardian role, but the timeline of the governance upgrade is unknown.
+
+**LEGAL: Does the legal analysis of the protocol suggest any cause for concern?** Rocket Pool Pty Ltd is an Australian Private Company, officially registered on May 10, 2018, and since then, it has been maintaining active status with the Australian Business Register.
+
+There is regulatory uncertainty in Australia concerning crypto staking or classified staking as a financial product or an auxiliary service to a financial product. The existence of a team-controlled guardian that can access treasury funds and set system parameters may pose a centralization argument by the competent authorities and put the project in a situation to be obliged to pursue VASP licensing. In the same line of thought the team may be vulnerable to enforcement actions in the future."
+
+There are no enforcement actions presently or historically against Rocket Pool Pty Ltd. Rocket Pool Pty Ltd appears to be protected to a significant degree under the Terms of Service.
+
+#### Risk Rating
+
+*   We rank rETH **good in liquidity** because despite having a fraction of the TVL as stETH, it has comparable liquidity depth in relation to its marketcap. Liquidity is distributed across several DEXs, including AMMs supporting high liquidity density on Balancer and Curve.
+*   We rank rETH **good in volatility** because since the merge, rETH has not depegged to the downside and has exhibited low volatility since the Shappella upgrade. The decentralized design may prevent adequate withdrawal liquidity in some market situations that could result in higher volatility.
+*   We rank rETH **good in smart contract** because there have been multiple smart contract audits, including an audit for the most recent Atlas update. Since the update happened several months ago, the contracts cannot be considered mature, and there may be undiscovered issues.
+*   We rank rETH **good in dependencies** because there is a reliable pricefeed available for rETH. The oDAO is a somewhat decentralized mechanism for updating rates and other processes between the consensus and execution layer, requiring 10 of 18 members to reach consensus.
+*   We rank rETH **ok in decentralization** because in the current bootstrapping phase, a team-controlled EOA acts as the guardian on behalf of the DAO. It can set parameters and handle treasury funds. The oDAO is a multisig that has significant power in the system, including to update contracts.
+*   We rank rETH **good in legal** because Rocket Pool has a legal entity (Rocket Pool Pty Ltd) that provides front end and technology service to support the system. They appear to cover their liabilities thoroughly in the Terms of Use and do not have any current or historical enforcement actions against them. However, due to the centralized guardian role, they may be exposed to legal liability in the future.
+    
+
+Our overall assessment is that rETH performs quite well all-around with the exception of some centralization concerns.
+
+Compared to its DeFi competitors (stETH and frxETH), rETH provides good balance. It scores somewhat lower than Frax on the market risk side, but scores higher on legal and dependencies. We’ve scored is higher than stETH in volatility as it has not experienced problematic volatility events as has stETH. However, it doesn’t score as high as stETH on decentralization or liquidity.
+
+Our opinion is that the strongest case to limit protocol exposure of rETH is the potentially problematic centralization vector posed by the team-controlled guardian and to a lesser extent, the 18-member oracle DAO. This exposes users to additional counterparty risk and possible legal issues in the future (although Rocket Pool’s legal history does appear to be very clean).
+
+Otherwise, rETH represents a well-rounded LSD product from a risk perspective. It would make a suitable addition to the collateral basket with minority exposure after wstETH. Rocket Pool’s transition to on-chain governance should be monitored, at which point it may be appropriate to consider a more dominant rETH presence within the basket.
+
+## Coinbase cbETH
+
+Full report from Prisma Risk Team: [https://hackmd.io/@PrismaRisk/cbETH](https://hackmd.io/@PrismaRisk/cbETH) This section will summarize the findings of the report by highlighting the most significant risk factors in each of the three risk categories: Market Risk, Technology Risk, and Counterparty Risk.
+
+#### 1\. Market Risk
+
+_LIQUIDITY: Does the LSD have a liquid market that can facilitate liquidations in all foreseeable market events?_
+
+cbETH ranks second in LSD marketshare after Lido stETH, but it is by a large margin. cbETH commands around 11% of the market compared to Lido’s 74.4%. While stETH has ~$600m liquidity across DEXs, cbETH has $44.16m pool TVL in DeFi with 9,501.45 cbETH. Over 97% of cbETH is on Coinbase.
+
+The DefilLlama Liquidity Tool estimates a cbETH>ETH swap size of 9000 cbETH (worth ~$18.1m) would produce a 1% slippage. By comparison, a $300m stETH swap would produce a comparable figure. This ranks cbETH at around 6% of the on-chain liquidity depth of stETH.
+
+cbETH may face greater liquidity challenges in the future. Its fees are the highest of the primary LSD competitors, resulting in consistently lower yields for users. Regulatory scrutiny has caused Coinbase to cease promotional activites or incentive programs to help drive cbETH adoption in DeFi.
+
+_VOLATILITY: Has the LSD had any significant depeg event (post merge)?_
+
+Following the Shapella upgrade along with some withdrawal demand, cbETH did experience some increased volatility that caused it to trade slightly below its fair value for a brief period. Overall, it has stabilized relative to ETH following the upgrade.
+
+Arriving to the upgrade, Coinbase had [warned customers](https://www.coinbase.com/blog/ethereums-shapella-upgrade-is-coming-heres-what-you-need-to-know) that they “anticipate the Ethereum protocol will take weeks to months to process unstaking requests immediately following the upgrade.” Although withdrawal demand is quite low currently, falling yields or network issues may precipitate large withdrawal demand that cannot be immediately arbitraged.
+
+One advantage of a centralized LSD service is the possibility Coinbase can expedite user withdrawals from the business’s cash flow, potentially averting a withdrawal bottleneck. However, section 1.7(j) of the [User Agreement](https://www.coinbase.com/legal/user_agreement/united_states) states “Coinbase will not backstop or otherwise intervene to guarantee cbETH liquidity”.
+
+#### 2\. Technology Risk
+
+_SMART CONTRACTS: Does the analysis of the audits and development activity suggest any cause for concern?_
+
+Custody of the underlying ETH is managed by Coinbase internally, and therefore the smart contract security is significant only for accounting purposes.
+
+The system Coinbase deployed was forked from Centre’s [FiatTokenV2\_1](https://github.com/centrehq/centre-tokens/blob/v2.1.0/contracts/v2/FiatTokenV2_1.sol), which is used with USDC and has significant SC maturity, having been on mainnet for multiple years. The additional contracts introduced with cbETH (ExchangeRateUpdater and MintForwarder) have been audited and have access controls centralized to Coinbase.
+
+_DEPENDENCIES: Does the analysis of dependencies (e.g. oracles) suggest any cause for concern?_
+
+Because cbETH operations are entirely centralized to Coinbase, the most significant risk to users is counterparty risk involving failure of the node operator, lost or stolen private keys, etc.
+
+Withdrawal times are advertised as a minimum of 27 hours and Coinbase has warned users that in times of high network-wide withdrawal demand, processing times can be in the weeks to months.
+
+Coinbase does have a reliable Chainlink pricefeed available for the cbETH/ETH pair.
+
+#### 3\. Counterparty Risk
+
+_CENTRALIZATION: Are there any significant centralization vectors that could rug users?_
+
+Coinbase has complete centralized control over the cbETH system and user funds. While ownership of staked ETH remains with the user (as per the User Agreement), Coinbase discloses risks that could cause losses for users.
+
+*   Staking involves the risk of slashing. In some cases, Coinbase will reimburse users, but not “if slashing was the result of a hack, your own actions, or a bug in the protocol itself” ([source](https://help.coinbase.com/en/coinbase/coinbase-staking/staking/staking-risks))
+*   Cyberattacks and security breaches of the platform.
+*   Theft, loss or destruction of private keys under Coinbase Custody.
+*   Various economic and regulatory uncertainties could threaten Coinbase as a business, and therefore the continued operation of cbETH.
+    
+
+_LEGAL: Does the legal analysis of the protocol suggest any cause for concern?_
+
+On June 6, 2023, the [SEC Charged Coinbase](https://www.sec.gov/news/press-release/2023-102) with operating as an Unregistered Securities Exchange, Broker and Clearing Agency. A complete list of allegations is in the [SEC Complaint](https://www.sec.gov/litigation/complaints/2023/comp-pr2023-102.pdf). Coinbase responded on June 28th with an [Answer to the Plaintiff’s Complaint](https://storage.courtlistener.com/recap/gov.uscourts.nysd.599908/gov.uscourts.nysd.599908.22.0.pdf) that outlines various defense strategies.
+
+The enforcement actions and regulatory scrutiny generally have apparently caused Coinbase to exercise caution with promoting cbETH for fear it could be considered a securities offering. It is too early to know for sure how the enforcement action will play out, but in the short term it has dampened the growth of cbETH relative to competitors and there is some uncertainty about the future of the product offering.
+
+#### 4\. Risk Rating
+
+Based on the risks identified for each category, the following chart summarizes a risk rating for cbETH as collateral. The rating for each category is ranked from excellent, good, ok, and poor.
+
+*   We rank cbETH **ok on liquidity** because although it ranks 2nd by LSD marketshare after stETH, >97% of liquidity is on Coinbase and an $18.1m on-chain swap produces a similar slippage as a $300m stETH swap.
+*   We rank cbETH **good in volatility** because a centralized service provider should be capable of expedited withdrawal processing during times of high demand than a decentralized protocol. This would strengthen the LSB in certain circumstances. However, Coinbase does not claim to expedite withdrawal requests.
+*   We rank cbETH **excellent in smart contracts** because the contract architecture is straightforward, managed by permissioned Coinbase addresses, based on battle-tested contracts, is audited, and the contracts themselves do not handle user funds.
+*   We rank cbETH **good in dependencies** for having a reliable pricefeed available. A centralized service can be an advantage when managing system accounting, withdrawal processing, and unforeseen network issues (high withdrawal demand, Ethereum network issues, etc.)
+*   We rank cbETH **ok in centralization** because it is a centralized service operated by Coinbase and users are thus exposed to counterparty risk. The User Agreement does offer assurances that users retain legal ownership of their staked ETH. Coinbase does make an effort to reduce centralization of its validators by diversifying across several software clients.
+*   We rank wstETH **ok in legal** for recently receiving an enforcement action from the SEC alleging that Coinbase’s staking program constitutes a securities offering. See section 5.4.3 for details. Despite regulatory scrutiny, Coinbase has a long history striving for regulatory compliance and appears prepared with a solid legal basis to defend itself.
+    
+
+Compared with Lido stETH, we assess that cbETH is stronger in the categories Smart Contract and Volatility. It is weaker in the categories Liquidity, Centralization, and Legal.
+
+There are potential advantages of a centralized LSD product within a diversified collateral basket, namely that the service provider can react more quickly during adverse circumstances, leading to less volatility and possibly greater user trust in the product.
+
+Care should be taken to limit exposure to cbETH for the primary reasons:
+
+*   1. liquidity is quite low despite cbETH having the second highest LSD marketshare and is highly concentrated on Coinbase.
+*   2. A recent SEC enforcement action demonstrates a level of regulatory scrutiny that creates some uncertainty about the future of the cbETH product or, at the very least, Coinbase’s ability to remain competitive against competing LSD products.
+    
+
+Our assessment overall is that cbETH is a suitable collateral asset within a diverse basket of LSDs, but DAO voters are recommended to limit protocol exposure to cbETH by targeting a basket allocation composed primarily of wstETH. wstETH has a much stronger liquidity profile and achieves a level of decentralization that offers stronger user assurances. cbETH is a good contender with risk attributes making it quite complementary to wstETH, but due to weaknesses in its liquidity profile and legal situation, it should remain a minority member of the collateral basket at this time.
+
+## Frax sfrxETH
+
+Full report from Prisma Risk Team: [https://hackmd.io/@PrismaRisk/sfrxETH](https://hackmd.io/@PrismaRisk/sfrxETH) This section will summarize the findings of the report by highlighting the most significant risk factors in each of the three risk categories: Market Risk, Technology Risk, and Counterparty Risk.
+
+#### 1\. Market Risk
+
+_LIQUIDITY: Does the LSD have a liquid market that can facilitate liquidations in all foreseeable market events?_
+
+frxETH can be considered not only an ETH liquid staking token but also a liquidity management protocol, thus setting it apart from its competitors. This gives Frax a unique advantage to grow and sustain its liquidity depth through its AMO activities in the Curve frxETH/ETH pool and other liquidity venues.
+
+Although the total frxETH marketshare is fairly low (2.31%), its available on-chain liquidity makes up a large proportion of its marketcap. Whereas stETH has ~$425m on-chain liquidity on $14.39b in TVL (3% of TVL), Frax has ~$75m on-chain liquidity on $448m TVL (>16% of TVL). Despite frxETH having 5% of the TVL compared to stETH, it has 25% the liquidity depth (a $50m frxETH>ETH swap produces 1% slippage compared to $300m stETH>ETH swap).
+
+Available liquidity is dependent on Frax’s ability to incentivize its frxETH pools, but the protocol model is highly focused on ensuring deep liquidity.
+
+_VOLATILITY: Has the LSD had any significant depeg event (post merge)?_
+
+As with frxETH liquidity, the Frax liquidity management focus has kept frxETH remarkably on peg, especially compared to competitors such as stETH and cbETH. Users should be aware that price stability comes as a cost of trusting the Frax team to responsibly manage liquidity.
+
+As a recent example, the Curve pool became somewhat imbalanced in mid-June. In response, the frxETH Treasury increased the ETH withheld on frxETH deposits to 70%. This allowed the treasury to divert user deposits toward balancing the pool. It is possible that redemption demand becomes excessive enough that Frax must exit validators to balance the pool. This process can be time consuming, especially if network-wide withdrawal demand is high. The responsibility of maintaining price stability is therefore the burden of the frxETH treasury and Frax team as operators of the frxETH validators, and it is possible that poor management could result in increased volatility.
+
+#### 2\. Technology Risk
+
+_SMART CONTRACTS: Does the analysis of the audits and development activity suggest any cause for concern?_
+
+There has only been one audit of frxETH and sfrxETH by [code4rena](https://code4rena.com/reports/2022-09-frax) on 29th of November, 2022 (contest taking place from 22nd to 25th September). The frxETH code heavily borrows from Frax and FPI stablecoins. Both of these are battle tested and have gone through extensive audits.
+
+_DEPENDENCIES: Does the analysis of dependencies (e.g. oracles) suggest any cause for concern?_
+
+There is no Chainlink pricefeed available for frxETH at this time, although the Frax team has said they are working to introduce one. For now, the two pricefeed options are a UniswapV3 frxETH/FRAX TWAP oracle and a Curve frxETH/ETH EMA oracle. Curve is currently recommending third parties to not integrate the EMA oracle, as it can be manipulable over multiple blocks, especially in low-volume pools. Curve is working to move to a new pool implementation that ameliorates this concern.
+
+For now, there is not a pricefeed solution that can be considered highly reliable, although there appear to be active efforts to rectify this.
+
+#### 3\. Counterparty Risk
+
+_CENTRALIZATION: Are there any significant centralization vectors that could rug users?_
+
+The 3-of-5 frxETH Treasury multisig is responsible for protocol operations and funds management. All user funds are managed by this multisig and by ETH staking validators operated by the Frax team. The total value managed by the Frax team (which can potentially be rugged) is currently [$437m](https://debank.com/profile/0x8306300ffd616049FD7e4b0354a64Da835c1A81C).
+
+While Frax has expressed an intention to upgrade funds management to an on-chain DAO governed by veFXS tokenholders, including having open sourced code for the upgrade, they have so far not begun the governance upgrade process. It is unknown when the upgrade will take place. Llama Risk began covering Frax in 12/21, and at that time the upgrade was planned for Q2 '22. The roadmap for the upgrade has since been delayed at least a year.
+
+Frax has also announced plans for a frxETH v2 that would behave as a collateralized lending market that diversifies the frxETH node operator set. The timeline for this upgrade is unknown.
+
+_LEGAL: Does the legal analysis of the protocol suggest any cause for concern?_
+
+Frax operates as a DAO with no legal entity. It is possible a DAO could be considered an “unincorporated general partnership” with uncertain consequences. In the most extreme case, a member of the DAO could be held liable for all the debts and legal issues faced by the DAO.
+
+Frax has not had any enforcement actions against it, although due to factors such as the centralization of operations and funds management along with questionable sanctions compliance, Frax may be exposed to regulatory risk.
+
+Individuals who are creators, owners, operators, or others who maintain control or wield substantial influence over the Frax protocol may fall under the FATF’s definition of a VASP (“Virtual Asset Service Provider”) and would be required to comply with regulatory guidelines.
+
+Frax does not appear to track addresses for sanctions compliance, nor does its terms of use include explicit restrictions of access to its services by sanctioned persons or residents of sanctioned countries. While this may not necessarily indicate a lack of compliance, the absence of such clauses might create ambiguity and potential enforcement risk.
+
+#### 4\. Risk Rating
+
+Based on the risks identified for each category, the following chart summarizes a risk rating for wstETH as collateral. The rating for each category is ranked from excellent, good, ok, and poor.
+
+*   We rank sfrxETH as **excellent on liquidity** because relative to its marketcap, frxETH has very deep market depth that provides strong assurances of liquidity in nearly all foreseeable market circumstances.
+*   We rank sfrxETH as **excellent on volatility** because Frax places a strong emphasis on maintaining price stability through its Curve pool integration that creates a stronger assurance than competitors.
+*   We rank sfrxETH as **good on smart contract** because it has undergone one audit but contracts have only been on mainnet since October '22 and therefore are still somewhat immature.
+*   We rank sfrxETH as **ok on dependencies** because there is no highly reliable price feed available currently. However, Frax is actively working on a Chainlink feed and Curve is actively working to improve its EMA oracle.
+*   We rank sfrxETH as **ok on decentralization** because there is a significant trust assumption in the Frax team to responsibly and honestly manage ~$437m worth of user funds. The team has a roadmap to decentralize, although they have a history of postponing decentralization efforts.
+*   We rank sfrxETH as **ok on legal** because it is susceptible to enforcement action due to centralization of core managing functions in the hands of a few team members, and yet it has not formed any legal entity or implemented any sanctions compliance measures.
+    
+
+Our overall assessment is that sfrxETH performs well on market risk factors (liquidity and volatility) and poor on counterparty risk factors (decentralization and legal) relative to competitors wstETH and cbETH. We scored sfrxETH lower on dependencies because it does not have a highly reliable pricefeed at this time, although this is likely a problem that will be resolved in the near term.
+
+The clear advantage of sfrxETH is the focus Frax places on ensuring deep liquidity through its liquidity management operations. This should allow it to immediately process withdrawal demand in most market scenarios through the managed Curve pool, and otherwise provide users with an assurance that Frax will restore the balance in uncommon situations involving significant liquidations and/or withdrawal demand.
+
+Care should be taken to limit exposure to sfrxETH for the primary reasons:
+
+*   There is no highly reliable pricefeed for frxETH at this time.
+*   There is significant counterparty risk due to a high level of centralization in frxETH contract operations, validator operations, and funds management.
+
+Both of the primary concerns are points that the Frax team has publicly stated they are working to resolve, including announcements of a [frxETH v2](https://medium.com/coinmonks/introducing-frxeth-v2-the-evolution-of-decentralized-lending-markets-and-stablecoins-142b52b5f81e) involving a decentralized node operator set and open sourcing the [GitHub repo](https://github.com/FraxFinance/frax-governance) for decentralized governance. Assuming both upgrades are successful, sfrxETH may become the most desirable LSD from a risk perspective. Until then, there is substantial counterparty risk and it is recommended to limit protocol exposure to sfrxETH as a collateral asset.
+
+## Binance WBETH
+
+Full report from Prisma Risk Team: [https://hackmd.io/@PrismaRisk/WBETH](https://hackmd.io/@PrismaRisk/WBETH) This section will summarize the findings of the report by highlighting the most significant risk factors in each of the three risk categories: Market Risk, Technology Risk, and Counterparty Risk.
+
+#### 1\. Market Risk
+
+_LIQUIDITY: Does the LSD have a liquid market that can facilitate liquidations in all foreseeable market events?_
+
+WBETH ranks sixth in the LSD market, making up .72% of the market share. While WBETH has liquidity in multiple pools and platforms, the analysis highlights potential challenges in terms of liquidity depth, utilization, and slippage.
+
+As of July 8th, 2023, Ethereum on-chain liquidity for WBETH is only present on Curve ($3.1M TVL), Balancer ($4.5M TVL), and PancakeSwap ($2.6M TVL) with the majority of WBETH on Binance. This is orders of magnitude less than its main competitors stETH (~$600M on-chain TVL) and cbETH (~$40M on-chain TVL).
+
+The DefiLlama token liquidity tool estimates a swap size of $3.25M would produce a 1% slippage. This is a very low figure compared to competitors. stETH would require a ~$300m swap and cbETH an ~$18m swap to produce similar slippage.
+
+_VOLATILITY: Has the LSD had any significant depeg event (post merge)?_
+
+As indicated by the daily LSB, BETH has generally traded at a discount relative to ETH before staking withdrawals were enabled. The maximum price difference was at a maximum around -5%, although over time the magnitude of the discount has decreased. No significant price depeg can be observed for BETH post-merge.
+
+A unique feature of Binance’s LSD is the Binance-managed withdrawal pool that helps ensure a stable supply of exit liquidity. This may be advantageous to Binance during times of high withdrawal demand and may be a stronger assurance to support the WBETH peg than is offered by competitors.
+
+Binance does have a 5 day withdrawal processing time, and in addition to not guaranteeing exit liquidity during times of high withdrawal demand, they may change the processing time without notice.
+
+#### 2\. Technology Risk
+
+_SMART CONTRACTS: Does the analysis of the audits and development activity suggest any cause for concern?_
+
+There are no published audits specifically for the BETH or WBETH contracts. However, Binance has an internal auditing team, and the contracts may have been audited internally. While Binance’s security and compliance team has been expanded and the company has a bug bounty program, the lack of specific audits for BETH and WBETH raises some concerns about the transparency and external verification of the contract’s security. Additionally, the closed-source nature of the Github repository specifically for WBETH and BETH limits the ability to assess the code and development activity.
+
+_DEPENDENCIES: Does the analysis of dependencies (e.g. oracles) suggest any cause for concern?_
+
+The WBETH contract relies on a centralized oracle system to update the WBETH:ETH exchange rate based on staking rewards earned by Binance validators. This operation is controlled by a Binance-approved address. This introduces a potential concern regarding the reliance on a centralized entity for updating the exchange rate between BETH and WBETH. Because minting WBETH from ETH is a permissionless function, unauthorized access or vulnerabilities in the ExchangeRateUpdater contract could lead to manipulation of the exchange rate and potential financial losses or market disruption.
+
+WBETH does not have a reliable pricefeed oracle on Ethereum which may be a blocking factor from introducing WBETH as collateral. Both Chainlink and Binance Oracle have a pricefeed on Binance Chain, but do not support Ethereum at this time. WBETH DEX pools have low liquidity and untested pricefeed oracles that cannot be considered reliable sources.
+
+#### 3\. Counterparty Risk
+
+_CENTRALIZATION: Are there any significant centralization vectors that could rug users?_
+
+Binance has full control over the governance of the service. Additionally, Binance acts as the sole node operator for the staking service, handling a large number of validators. This high level of centralization increases the risk of manipulation and control by a single entity, which could potentially be harmful to users.
+
+Binance articulates the user’s agreement when using Binance staking services in the [Binance ETH Staking Terms and Conditions](https://www.binance.com/en/terms-ETH-2-0-staking) and general agreements in the [Terms of Use](https://www.binance.com/en/terms).
+
+_LEGAL: Does the legal analysis of the protocol suggest any cause for concern?_
+
+The legal analysis of the Binance ETH Staking Service protocol suggests some cause for concern. The Terms and Conditions require users to consent to Binance or a Binance Operator staking their assets, acting as a validator, and delegating voting rights attached to the assets. The lack of clear designation of the governing law and the legal entities responsible for providing the service could lead to ambiguity and uncertainty in legal disputes. It may also make it difficult for users to identify the applicable jurisdiction and understand their legal exposure.
+
+Moreover, the complex corporate structure and undisclosed ownership of Binance raise regulatory and compliance issues, as highlighted by the recent enforcement actions by the CFTC and complaint by the SEC. Although Binance specifically restricts U.S. citizens from using the binance.com exchange, U.S. regulators are placing a high level of scrutiny on Binance’s operations.
+
+#### 4\. Risk Rating
+
+Based on the risks identified for each category, the following chart summarizes a risk rating for WBETH as collateral. The rating for each category is ranked from excellent, good, ok, and poor.
+
+*   We rank WBETH **poor on liquidity** because of limited DeFi integrations resulting in poor on-chain liquidity. Most WBETH liquidity is on Binance and only 3,037 WBETH is in Ethereum liquidity pools as of July 8th.
+*   We rank WBETH **good in volatility** because Binance manages a withdrawal pool that helps ensure ample exit liquidity which may strengthen its peg assurance compared with competitors.
+*   We rank WBETH **ok in smart contract** because WBETH is mostly forked from cbETH which has been audited and have somewhat mature contracts on mainnet. However, Binance has not released any audit report of their additions to the contracts or open sourced their development activity.
+*   We rank WBETH **poor in dependencies** because there is no reliable pricefeed oracle available on Ethereum for WBETH at this time which may be a blocker for integration into lending platforms.
+*   We rank WBETH **poor in decentralization** because not only is WBETH completely centralized to Binance, the ownership structure and official jurisdiction of Binance have remained elusive, raising suspicion that Binance intentionally obscures this information to circumvent scrutiny and regulation.
+*   We rank WBETH **poor in legal** because of enforcement actions, complaints, and investigations from multiple agencies in multiple jurisdictions that may threaten Binance’s ability to continue supporting WBETH in the future. Agencies include the CFTC, SEC, the U.S. DOJ, and the French AMF.
+
+We assess that WBETH is riskier in all categories except volatility compared with both stETH and cbETH.
+
+There are potential advantages of a centralized LSD product within a diversified collateral basket, namely that the service provider can react more quickly during adverse circumstances, leading to less volatility and possibly greater user trust in the product.
+
+Care should be taken to limit WBETH exposure for the primary reasons:
+
+*   1. There is no reliable pricefeed for WBETH/BETH on Ethereum. It is possible that WBETH loses its peg to ETH which may result in the accrual of bad debt to a lending platform that lacks a reliable pricefeed.
+*   2. WBETH is the least liquid LSD of the initial proposed Prisma basket (wstETH, cbETH, sfrxETH, rETH, and WBETH). It has poor DeFi integration and, as a result, the vast majority of BETH/WBETH liquidity is on Binance.
+    
+
+Compared with other LSDs being considered for onboarding, WBETH offers no real advantage from a risk perspective. Its most analogous competitor, Coinbase cbETH, scores higher in almost every category. Whereas the risk profile of cbETH may balance certain deficiencies observed in stETH, WBETH does not adequately balance the risk profile of a diversified basket.
+
+
+######## ./knowledge-base\governance\adding-and-removing-collaterals.md
+
+# Adding and Removing Collaterals
+
+### Introduction
+
+**Prisma** design allows for the inclusion of a variety of collateral types. These collaterals can be added or removed via a governance vote. This page provides an overview of how collaterals can be added, how they can be removed (a process referred to as `sunsetting`), and the implications for the `Stability Pool`. Note than any new collateral need to go through a Risk Report by the independent Prisma Risk Team before any vote proposal.
+
+### Adding Collaterals
+
+Collaterals can be added to the Prisma protocol through a proposal and voting process. If the majority of the governance token holders agree, a new collateral type can be added. Once a new collateral type is added, it can be used to secure loans and participate in other system functionalities. The interest rate, loan-to-value ratio, and other parameters for each collateral type are set by governance.
+
+#### Implementation
+
+A new collateral is added by calling the function `deployNewInstance` on the `Factory` contract. A collateral type cannot be added more than once. Upon execution of the aforementioned function the following actions are performed:
+
+*   1. A new `Account Manager` and `Sorted Accounts` are deployed
+*   2. The collateral is allowed into the `Stability Pool`, `Borrower Operations`, `Liquidation Manager` and `mkUSD` contracts
+*   3. Initial parameters for that collateral are set within the protocol
+    
+
+### Sunsetting Collaterals
+
+Sometimes, it may become necessary to remove a collateral type from the **Prisma** protocol. This process is known as `sunsetting` a collateral. Sunsetting is initiated via a governance vote and has several implications:
+
+*   1. **Collateral Handoff:** When a collateral type is being sunset, collateral handoff from `Account Manager` to the stability Pool (SP) for any liquidation is disabled. Instead, only redistribution of collateral and debt among vaults for the same collateral type is allowed.
+    
+
+*   2. **Interest Rate Adjustment:** The interest rate for the sunset collateral is increased to 50% APR. This high interest rate is intended to incentivize the repayment of loans backed by the sunset collateral.
+    
+
+*   3. **Redemption Fees:** The redemption fees for the sunset collateral are removed. This makes it more attractive for users to redeem `mkUSD` against that collateral.
+    
+
+*   4. **New Loans:** The creation of new loans backed by the sunset collateral is disabled. This helps to gradually phase out the use of the sunset collateral.
+    
+
+### Stability Pool Implications
+
+The [stability pool](/protocol-concepts/liquidations-and-the-stability-pool) plays a critical role in maintaining the stability of the **Prisma** system. During the sunsetting of a collateral, certain rules apply to the stability pool:
+
+*   1. **Collateral Withdrawals:** Withdrawals for the sunset collateral from the stability pool are halted and all balances cleared 180 days after the initiation of the sunsetting process.
+    
+*   2. **Collateral Index Reuse:** After the sunset period has ended, the collateral index used to identify a collateral in the s_tability pool_ can be reused.
+
+
+######## ./knowledge-base\governance\admin-functions.md
+
+# Admin Functions
+
+### Introduction
+
+Prisma is an immutable and fully on-chain protocol. Despite this, some minimal admin functions are retained and operated via governance.
+
+All members on the Emergency Multisig can be found [here](/governance/admin-functions/emergency-multisig).
+
+### Emergency Pausing
+
+Pausing in Prisma is designed to halt all operations except those which allow collateral recovery by the user. This mechanism is designed to maximize safety while at the same time reduce collateral from being stuck due to unforeseen bugs in an immutable protocol.
+
+This also increases users' confidence that Governance and/or Guardians cannot unduly lock their capital.
+
+#### Protocol-wide
+
+In the unlikely event of a protocol-wide catastrophic issue, these functions can be paused by a multi-sig controlled by a set of notable DeFi figures:
+
+*   Opening a new vault
+*   Increase collateral for an existing vault
+*   Increase debt for an existing vault
+*   Deposit `mkUSD` into the Stability Pool
+    
+
+#### Collateral Pausing
+
+If there are urgent problems with a specific collateral, the guardian multi-sig can pause the `Account Manager` relative to that collateral. In this case, pausing will affect the following functions:
+
+*   Opening a new vault
+*   Increase collateral for an existing vault
+*   Increase debt for an existing vault
+    
+
+### Unpausing
+
+Unpausing both protocol-wide and at the collateral level can only be enacted via governance.
+
+### Setting Guardians multi-sig
+
+Governance can vote to change the guardian multi-sig.
+
+### Changing the fee receiver
+
+All protocol fees are directed to an address labeled fee receiver. The initial fee receiver implementation is a simple contract that allows token transfers via a governance vote. It is also possible for governance to vote to change the fee receiver address.
+
+### Changing Price Feed
+
+In the interest of future-proofing, governance can vote to replace the protocol price feed.
+
+### Collateral sunset
+
+​[Collateral sunset](/governance/adding-and-removing-collaterals#sunsetting-collaterals) can be voted via governance.
+
+### Adding new collateral
+
+​[Adding a new collateral](/governance/adding-and-removing-collaterals#adding-collaterals) can be voted via governance.
+
+### Replacing default Account Manager and Sorted Account implementations
+
+Whenever a new collateral is added, an `Account Manager` and a `Sorted Account` contract are deployed as a clone of a default implementation.
+
+Governance has the power to change said default implementations.
+
+######## ./knowledge-base\governance\dao-admin-voting.md
+
+# DAO Admin Voting
+
+Certain Prisma smart contracts contain admin-only functionality. All admin functions are callable only after the creation and successful passing of an admin DAO vote.
+
+### Types of Admin Votes
+
+Some examples of possible admin actions are:
+
+*   modifying fees
+*   adding or removing a collateral
+*   pausing or unpausing protocol functionality
+*   transfer protocol fees
+*   adjusting the quorum on admin votes
+    
+
+### How voting works
+
+In order to create a vote, a user must meet a minimum lock weight requirement. This is done to prevent vote spamming.
+
+A vote consists of one or more smart contract calls, collectively referred to as the "payload". It is important that each voter reviews the payload prior to voting, to ensure the vote does not perform any malicious actions.
+
+Users who are in favor of the vote can allocate their lock weight toward the proposal. A vote passes once the weight signaling in support exceeds a quorum. There is no concept of a "no" vote, users who are not in favor should abstain from voting.
+
+24 hours after a vote has passed quorum, the payload can be executed by anyone. The 24 hour delay serves as protection from malicious votes - in the unlikely event that a vote which passes has a payload containing an action that would do damage to the protocol, there is time for users to react prior to the payload being executed.
+
+Votes are valid for one week from their creation time.
+
+### Guardian
+
+#### Powers
+
+A DAO guardian (operated via a multi-sig) has the power to cancel any pending proposals.
+
+#### Replacing the guardian
+
+The replacement of the guardian must be submitted as the first action in a proposal. Such a proposal is non-cancellable by the guardian.
+
+This can be used if the guardian is acting maliciously.
+
+
+######## ./knowledge-base\governance\emergency-multisig
+
+Comment on page
+
+Emergency Multisig
+==================
+
+The Emergency Multisig is deployed at [`0x7A28A80DcE1733944Db5dC50dc2c5147eC993C5A`](https://app.safe.global/home?safe=eth:0x7A28A80DcE1733944Db5dC50dc2c5147eC993C5A) .
+
+The full list of members is as follows:
+
+*   Michael Egorov - Curve Finance
+*   c2tp - Convex Finance
+*   mrblock - Curve Finance
+*   Sam Kazemian - Frax Finance
+*   0xLlama - DefiLlama
+*   Ivangbi - LobsterDAO
+*   Tetranode
+*   Sidney Gottlieb - Prisma Finance
+*   Owsley Stanley - Prisma Finance
+    
+
+######## ./knowledge-base\governance\emission-boosting.md
+
+# Emissions Boosting
+
+### What is Boost?
+
+Users with lock weight are eligible to receive boosted PRISMA emissions. "Boost" refers to a bonus on claimable PRISMA tokens that a vault receives based on it's locked PRISMA weight. A user with "max boost" earns PRISMA rewards at 2x the rate of a vault that is unboosted.
+
+### How is Boost Calculated?
+
+Boost works as follows:
+
+*   In a given week, the percentage of the weekly PRISMA rewards that a vault can claim with maximum boost is the same as the percentage of PRISMA lock weight that the vault has, relative to the total lock weight.
+*   Once a vault's weekly claims exceed the amount allowed with max boost, the boost rate decays linearly from 2x to 1x. This decay occurs over the same amount of tokens that were available for maximum boost.
+*   Once a vault's weekly claims are more than double the amount allowed for max boost, the boost bonus is fully depleted.
+*   At the start of the next week, boost amounts are recalculated.
+    
+
+Note that boost is applied at the time of claiming a reward, not at the time the reward was earned. A vault that has depleted it's boost may opt to wait for the start of the next week in order to claim with a larger boost.
+
+### Example of Boost Calculation
+
+*   At the end of week 1, Alice has a lock weight of 100. There is a total lock weight of 1,000. Alice controls 10% of the total lock weight.
+*   During week 2, a total of 500,000 new PRISMA rewards are made available
+*   Because Alice has 10% of the lock weight in week 1, during week 2 she can claim up to 10% of the rewards (50,000 PRISMA) with her full boost.
+*   Once Alice's weekly claim exceeds 50,000 PRISMA, her boost decays linearly. Over the next 50,000 potential PRISMA claimed, she receives only 37,500.
+*   Once Alice's weekly potential claims exceed 100,000 PRISMA, any further claims are "unboosted" and receive only half as many tokens as they would have boosted.
+*   At the start of the next week, Alice's boost is fully replenished. She still controls 10% of the total lock weight, so she can claim another 10% of this week's emissions at full boost.
+    
+
+### Boost Delegation
+
+Anyone with lock weight has the option to make their boost available for use by other users. This is known as "boost delegation". When enabling delegation, a user can set:
+
+*   a percentage fee, taken from the claimant and given to the delegate each time the delegate's boost is used
+*   an optional smart contract that receives a callback each time a delegate's boost is used
+    
+
+The callback contract can be used to build an additional layer on top of delegation. It could implement white/blacklists, distribute additional incentives, etc.
+
+### Technical Details
+
+On a technical level, we consider the full earned reward to be the maximum boosted amount. "Unboosted" is more accurately described as "paying a 50% penalty on potential claimable rewards".
+
+Rewards that go undistributed due to claims with lowered boost are returned to the unallocated token supply and distributed in the emissions of future weeks. Thus, boost also serves as a mechanism to extend the timespan of meaningful PRISMA emissions.
+
+
+######## ./knowledge-base\governance\introduction.md
+
+# Introduction
+
+Prisma introduces a novel tokenomics framework, carefully designed to drive towards a path of decentralization and autonomy of the Prisma protocol. The approach covers governance mechanisms and financial incentives aimed to align various shareholders within the Prisma ecosystem. The PRISMA token is at the core of this framework, serving as a securing element of the Prisma protocol.
+
+
+######## ./knowledge-base\governance\prisma-emission-voting.md
+
+# PRISMA Emission Voting
+
+Users who have locked PRISMA can submit votes to determine how PRISMA emissions are distributed within the protocol.
+
+Prisma's emission voting is conceptually similar to Curve's gauge weight voting.
+
+### How it works
+
+Users can allocate their lock weight towards one or more emission receivers. At the start of each week, receivers are allocated a fraction of the weekly PRISMA emissions, proportional to how much lock weight they were allocated.
+
+Lock weight is allocated in percentage. Each user has a maximum of 100%. A user must allocate all 100% in order to vote with their entire lock weight. Votes can be modified at any time. Whatever votes a user has submitted by the start of Thursday of each week, is the vote applied for the following week. Note that your votes persist week-to-week unless you either override them or "clear your votes" on the PRISMA tab. This feature will make you save gas and prevent you from missing votes deadlines.
+
+### Registering Vote Weight
+
+The first year of PRISMA emissions are distributed as locked positions. This means:
+
+*   Users lock weights have the potential to change very frequently - adjusting vote weights each time a lock weight changes would be very gas-intensive.
+*   For this reason, users must register their lock weight within the voting contract in order to submit a vote.
+*   If their lock weight increases after submitting the vote, they may optionally resubmit the vote with the increased weight.
+    
+This functionality is largely abstracted from end users via Prisma's front-end, but integrators should review the `IncentiveVoting` contract and be aware of this requirement.
+
+### Voting on weekly emissions
+
+Users can vote on 4 different actions across the protocol. Performing these actions will earn you PRISMA. These are:
+
+*   Depositing to the Stability Pool
+*   Minting new `mkUSD` (with a particular collateral)
+*   Maintaining an active `mkUSD` debt (with a particular collateral)
+*   Staking Curve LP tokens
+    
+For example, if you had an active debt position collateralised by stETH, you could choose to vote for maintaining an active `mkUSD` debt - collateralised by stETH. In turn, this would direct more PRISMA emissions for the following week towards this action.
+
+Or, you could choose to vote for minting new `mkUSD` with stETH as collateral - if you had planned to mint more `mkUSD` against your existing collateral. You may also wish to deposit more stETH and mint `mkUSD` against it as a way to receive a portion of that week’s PRISMA emissions allocated to this action.
+
+
+######## ./knowledge-base\governance\prisma-locking-and-lock-weight.md
+
+# PRISMA Locking and Lock Weight
+
+Participating in Prisma governance requires that a user lock a balance of PRISMA tokens. Once locked, the tokens give the user "lock weight", which is used in determining voting power.
+
+Prisma's token locking is inspired by, and functions similarly to, the popular veToken model created by Curve.
+
+### How Locking Works
+
+*   Users receive lock weight by locking PRISMA for a number of weeks. "Weeks" refers to the number of weeks that must pass before the tokens can be withdrawn.
+*   The maximum duration for a lock is 52 weeks.
+*   Each user can have multiple locks of different durations.
+*   It is possible to extend the duration of an existing lock.
+*   Locks can be split (by extending the duration for only a portion of a locked balance) or merged (by extending one lock's duration to the same duration as another lock).
+*   Every Thursday, the number of weeks for a lock decreases by 1. When the lock duration reaches 0 weeks, the tokens may be withdrawn at any time.
+    
+
+### How Lock Weight is Calculated
+
+A user's lock weight is calculated as:
+
+LOCK\_WEIGHT \= sum(weeks \* balance for (weeks, balance) in USER\_LOCKS)
+
+### Freezing your Lock Weight
+
+Users can optionally "freeze" their lock weight. When frozen, all active locks are extended to 52 weeks. The time-to-unlock no longer decays each week. Any tokens added to a frozen lock are also frozen.
+
+Freezing is useful for integrators, protocols participating in emission voting, or anyone that never intends to withdraw their locked position. Freezing greatly reduces gas costs for emission voting. Emission votes from frozen locks also do not decay.
+
+A frozen lock can be unfrozen at any time and the lock weight will being to decay at the end of the same week it is unfrozen.
+
+### Withdrawing early from Locked Positions
+
+It is possible to exit a locked position early by paying a withdrawal fee. The fee to exit early starts at 100% and decays linearly based on the number of weeks remaining until the tokens unlock. The exact calculation used is:
+
+fee\_amount \= (total\_amount \* weeks\_to\_unlock) // 52
+
+Penalty withdrawals are always processed starting with the lock that will expire soonest. Locks for 52 weeks are ignored, because the penalty to withdraw would be 100%.
+
+Penalty fees are sent to the Prisma [fee receiver](/governance/admin-functions#changing-the-fee-receiver).
+
+
+######## ./knowledge-base\governance\the-prisma-token.md
+
+# The PRISMA token
+
+PRISMA is the governance token of the Prisma protocol. It is distributed to users of the protocol for performing a variety of actions, and can be locked to participate in protocol governance.
+
+### Earning PRISMA
+
+PRISMA is distributed to protocol users for performing a variety of actions. Some examples include:
+
+*   Depositing to the Stability Pool
+    
+
+*   Minting new `mkUSD`
+    
+
+*   Maintaining an active `mkUSD` debt
+    
+
+*   Staking Curve LP tokens
+    
+
+### PRISMA Utility
+
+PRISMA is used within the protocol as a governance token.
+
+*   1. PRISMA is [locked](/governance/prisma-locking-and-lock-weight) for up to 52 weeks in order to receive lock weight
+*   2. Lock weight is used to vote for the distribution of [PRISMA emissions](/governance/prisma-emission-voting)​
+*   3. Lock weight can be used to vote on [protocol ownership](/governance/dao-admin-voting) actions
+    
+Other use cases may arise in the future, as a result of protocol ownership voting.
+
+### Total Supply and Allocation
+
+PRISMA has a maximum total supply of 300 million. All tokens are minted immediately when the protocol is deployed. Tokens are initially held by the `Treasury`, and released gradually over time. The treasury balance is not considered to be in circulation.
+
+The supply of PRISMA is allocated as follows:
+
+*   62% (186,000,000 PRISMA) are allocated towards emissions. These emissions are directed by the Prisma DAO and incentivise certain actions within the Prisma Protocol. Emissions can additionally be used to incentivise liquidity on liquidity pools.
+*   20% (60,000,000 PRISMA) are allocated to the Core Contributors. These tokens will be unlocked linearly for 12 months starting at Genesis.
+*   10% (30,000,000 PRISMA) is allocated to Early Supporters who assisted in bootstrapping costs associated with the initial development of the Prisma Protocol. These tokens will be unlocked linearly for 12 months starting at Genesis.
+*   5% (15,000,000 PRISMA) will be held in the Prisma DAO Treasury.
+*   3% (9,000,000 PRISMA) will be distributed towards veCRV voters and Prisma Point holders.
+    
+**Genesis** is the time and date at which the token emissions of PRISMA start.
+
+### Incentive Distribution Schedule
+
+New protocol incentives are allocated weekly according to the [emission voting](/governance/prisma-emission-voting) results. The total amount to be released each week follows a set schedule:
+
+The first four weeks are the "high emission period". A maximum of 9 million PRISMA is released linearly over this period (3% of the total supply). During this time, all earned PRISMA is locked for 26 weeks upon claiming. The goal is to reward early users and encourage a healthy amount of lock weight to participate in protocol governance.
+
+After the high emission period finishes, the amount of weekly emissions is calculated as a percentage of the remaining unallocated PRISMA supply. The percentage released each week is as follows:
+
+Time
+
+Emissions
+
+Weeks 1-4
+
+2,250,000 tokens per week
+
+Weeks 5-13
+
+1.2% of the remaining emission tokens per week
+
+Weeks 14-26
+
+1% the remaining emission tokens per week
+
+Weeks 27-39
+
+0.9% the remaining emission tokens per week
+
+Weeks 40-52
+
+0.8% the remaining emission tokens per week
+
+Year 1-2
+
+0.7% the remaining emission tokens per week
+
+Year 2-3
+
+0.6% the remaining emission tokens per week
+
+Year 3+
+
+0.5% the remaining emission tokens per week
+
+Note that because of how the Prisma boost system works, the numbers quoted above are the maximum amount claimable in that week; the actual claims will be somewhere between 50-100% of these numbers, and anything unclaimed due to this is returned to the unallocated supply.
+
+Earned PRISMA continues to be locked upon claiming for the first year. The number of weeks of the lock decreases by one every 2 weeks, eventually reaching 0 slightly after 1 year from launch. It is possible to exit a locked position early by paying a withdrawal fee (see [Withdrawing early from Locked Positions](/governance/prisma-locking-and-lock-weight)). According to this schedule, up to 60% of the total supply will be released within the first year. The actual amount will likely be less, due to claims made without [maximum boost](/governance/emissions-boosting).
+
+
+######## ./knowledge-base\guides\earning.md
+
+# Earning
+
+Prisma Earn provides users access to various earning possibilities on both `mkUSD` and `PRISMA`.
+
+To start earning on Prisma, visit the **EARN** tab and pick between the various options that are available. Users can choose to stake their mkUSD via the stability pool, or build a Curve and Convex LP position directly on Prisma. This offers users access to additional emission-boosting mechanisms.
+
+![](https://3654112834-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F1tAi6RdL45CCiZaxKFFS%2Fuploads%2F0nhXM2S40me1jdamVWOR%2Fimage.png?alt=media&token=ecf1282f-f8b9-40d9-93c3-62b180450e8c)
+
+
+######## ./knowledge-base\guides\locking.md
+
+# Locking
+
+Vote lock PRISMA tokens in order to participate in gauge weight or governance votes and claim protocol rewards.
+
+### Step by step
+
+*   1. Navigate to **PRISMA** at the top of the page
+*   2. Enter the quantity of PRISMA tokens you would like to lock and the duration of the lock from 1-52 weeks.
+*   3. Users can monitor their locks at **Your Locks** and choose to **Enable Auto Lock.** Auto locking freezes your locks so users don't have to relock, saving gas.
+    
+## Boost Delegation
+
+In return for locking PRISMA you receive [Boost](/governance/emissions-boosting). Any unused boost gained from locking PRISMA can be rented out to other participants on Prisma. An optional fee can be set for renting out unused boost allowing users to earn a share of the PRISMA rewards the rentee earns. Fees earned are visible on the rewards page and are subject to a lock period upon claim.
+
+
+
+######## ./knowledge-base\guides\using-prisma-finance.md
+
+# Using Prisma Finance
+
+Prisma Finance operates using the Ethereum blockchain. You'll need an Ethereum wallet, such as Metamask, to interact with the dApp.
+
+Once you've got your wallet setup, head to Prisma Finance.
+
+## Opening a vault
+
+How to desposit from your connected wallet into Prisma
+
+To deposit assets from your connected wallet, go to the top panel and find **VAULTS.** This will open a page with all the collateral types accepted on Prisma Finance to borrow against. Select one of the collateral types you wish to borrow against.
+
+![](https://3654112834-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F1tAi6RdL45CCiZaxKFFS%2Fuploads%2FaRnHHpc8SB49tRS37Lkl%2F1.png?alt=media&token=30b5c6f5-7e8c-4ba0-9215-e0e3b9394743)
+
+If you don't have any of the collateral types accepted on Prisma Finance consider buying some on Curve Finance.
+
+![](https://3654112834-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F1tAi6RdL45CCiZaxKFFS%2Fuploads%2F4wMnE02IJTralexCMC8X%2Fimage.png?alt=media&token=89a90b3c-bc11-497a-b7fc-ed1fdadedcdd)
+
+## Wrap your stETH to wstETH
+
+### Step 1
+
+Visit and connect your wallet to: [https://stake.lido.fi/wrap](https://stake.lido.fi/wrap)​
+
+### Step 2
+
+Input the amount of ETH or stETH you want to wrap into wstETH
+
+![](https://lh5.googleusercontent.com/voQStMlwTDFBYIuXcwAjZ45HVL2S8zqX5km2VY5fp4VEFgWU16qZduvIDr1r-wiR1zgihOvFhwKnvCoiSS8A7Ry51vi6y2be0MQjURJSooadMDaXSSK6QBkQD2MzyRIR_p-LM9Nkt06hfwk-XIMuAeY)
+
+### Step 3
+
+Select Unlock token to wrap and approve the transaction
+
+![](https://lh6.googleusercontent.com/yo5QdaAgGF1bh5WELLa0d97AsgQyUnc8IZMRPmZI6y8_GNI4HIukWBYEyqPlG9mr7MH83nP2ZaW680zkf7aADqIzL3xD0NidoicPtXWs80XgbjzpirNzXuJfciCh60ewyMmZR12X1jR7I-85k39CrS4)
+
+### Step 4
+
+Now click on wrap and confirm the transaction
+
+![](https://lh3.googleusercontent.com/nbj99ey7_raTXGdv8JzPsIx6N8QVIM-_Vu6EPrDjW_-_6i7tUNg6BXy2Gotxwv3A4wUjfYpiLhp7VwcsYjYSnhf7m8_IPNUQOXGMcrdyOL684LvG5Il0uv46kZt-eYMATgKsFhFAK4G0DhAqb3LUpHg)
+
+## Stake your frxETH to get sfrxETH
+
+### Step 1
+
+Visit and connect your wallet to: [https://app.frax.finance/frxeth/stake](https://app.frax.finance/frxeth/stake)​
+
+![](https://3654112834-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F1tAi6RdL45CCiZaxKFFS%2Fuploads%2FP0kceWFKmQrfC0wzdaPb%2FScreenshot_4.png?alt=media&token=cc50ebb7-cd79-48b5-9e4d-1666fbc1e061)
+
+### Step 2
+
+Enter your desired amount of frxEth to get sfrxETH and click on "Stake"
+
+![](https://lh4.googleusercontent.com/f54e8GBiuR0IvLkzHe03Ctu07YYTNItVsyf8p60qnKHAsK0z2UxXtdtPsKh7PrwlV0BDJcY0O9Ew-HpRlGGObs2irQLj7oydV8XaQ9WsRRRK6RqJ6LNcrNhB87l5Bp-alU6id9tmdzoV7XcEoTPpQHA)
+
+## Minting
+
+To mint mkUSD, deposit the desired amount of collateral on Prisma. The debt is automatically calculated to provide a safe collateral ratio. More advanced users can opt to disable the auto debt calculation if they prefer to manually set up the parameters of their account.
+
+![](https://3654112834-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F1tAi6RdL45CCiZaxKFFS%2Fuploads%2Fp9quNBRr9FpNGrvg7Uey%2Fimage.png?alt=media&token=90cbb481-fada-4355-9fd2-90879029d081)
+
+A minimum debt of `2000 mkUSD` is required to open an account on Prisma (this includes the `200 mkUSD` [Liquidation Reserve](/protocol-concepts/depositing-collateral-and-minting-mkusd#liquidation-reserve)).
+
+## Closing
+
+By repaying and closing a vault, a users repays the total debt that was borrowed to receive their collateral back. The debt includes the interest that was accrued over the period that the debt was issued.
+
+![](https://content.gitbook.com/content/1tAi6RdL45CCiZaxKFFS/blobs/ynRjeLbAJkDOs1VEOBy3/Screenshot_3.png)
+
+
+
+######## ./knowledge-base\guides\voting.md
+
+Comment on page
+# Voting
+
+Users who have [locked PRISMA](/guides/locking) can submit votes to determine how PRISMA emissions are distributed within the protocol.
+
+Prisma's emission voting is conceptually similar to Curve's gauge weight voting.
+
+![](https://content.gitbook.com/content/1tAi6RdL45CCiZaxKFFS/blobs/qkgxKpDIOZmCPZS1KgaU/Screenshot_4.png)
+
+### Step by step
+
+*   1. Navigate to **PRISMA** at the top of the page.
+*   2. Allocate your lock weight towards one or more emission receivers.
+*   3. Confirm your votes after choosing "Cast Votes"
+    
+
+![](https://content.gitbook.com/content/1tAi6RdL45CCiZaxKFFS/blobs/EZ2SSnYRb0aMQ1biey08/Screenshot_2.png)
+
+
+######## ./knowledge-base\protocol-concepts\depositing-collateral-and-minting-mkUSD.md
+
+# Depositing Collateral and Minting mkUSD
+
+### Minting mkUSD
+
+Users open a vault and mint `mkUSD` by depositing a [Prisma supported collateral](/protocol-concepts/supported-collaterals). A **minimum debt** of `2,000 mkUSD` is required (this includes the `200 mkUSD` [Liquidation Reserve](/protocol-concepts/depositing-collateral-and-minting-mkusd#liquidation-reserve)) up to a **maximum debt** at a collateral ratio of `120%.`
+
+### Vault
+
+A vault is a loan against a specific collateral type. Each vault is linked to an Ethereum address and each address can have just one vault for a given collateral type. If you are familiar with accounts or CDPs from other platforms, vaults are similar in concept.
+
+Vaults maintain two balances: the collateral balance and the `mkUSD` debt balance. Users can manage these balances by adding or removing collateral, or increasing or repaying debt. A vault's collateral ratio changes as these balances are adjusted.
+
+Vaults can be closed at any time by fully paying off its debt.
+
+### Borrowing fees
+
+Borrowing may incur fees, see [Fees](/protocol-concepts/fees).
+
+### Loan duration
+
+Loans issued by the protocol do not have a repayment schedule; debt can be repaid at any time.
+
+### Vault Collateral Ratio
+
+The collateral ratio is the ratio between the US Dollar value of the collateral in a vault and its debt in `mkUSD`. The collateral ratio of a vault will fluctuate as the price of the collateral changes. Users can adjust the ratio by adding or removing collateral, or increasing or repaying debt.
+
+_For example:_ Assuming the present value of `rETH` stands at `$2,000` and you opt to deposit `30 rETH`, taking out a loan of `30,000` `mkUSD` would give you a collateral ratio of `200%`.
+
+```math
+$2000∗30rETH30000mkUSD∗100%\=200%\\frac{\\$2000 \* 30 rETH}{30000 mkUSD} \* 100\\% = 200\\% 30000mkUSD$2000∗30rETH​∗100%\=200%
+```
+
+However, if the `rETH` price drops to `$1,000` the ratio becomes `100%`.
+
+### **Minimum collateral ratio (MCR)**
+
+The Minimum Collateral Ratio (MCR) denotes the foundational debt-to-collateral ratio that, when maintained, prevents liquidation during standard operations, termed as Normal Mode. This parameter, integral to the protocol, is determined by governance for each specific collateral type. For instance, with an MCR set at `120%`, a vault holding a debt of `20,000` `mkUSD` requires a collateral valuation of no less than `$24,000` to safeguard against liquidation.
+
+To avoid being liquidated in [Recovery Mode](/protocol-concepts/recovery-mode) it's advisable to maintain a ratio well beyond `150%`, ideally around `200%` to `250%`.
+
+### Multiple Collateral Types
+
+**Prisma** supports multiple collateral types, therefore users can open multiple vaults, one for each supported collateral. It is important to note the following points:
+
+*   1. Collateral types are segregated, therefore each collateral's Total Collateral Ratio (TCR) is calculated independently.
+*   2. Collateral types may have different protocol parameters so at any given time using each collateral might be cheaper or more expensive than the others (see [Fees](/protocol-concepts/fees)).
+*   3. [Prisma emissions](/governance/prisma-emission-voting) might be different for each collateral type.
+    
+
+### Vault liquidations
+
+During [liquidations](/protocol-concepts/depositing-collateral-and-minting-mkusd#account-liquidations), a vault's collateral is lost as it is used to pay off the account's debt. The vault owner will no longer be able to retrieve the collateral by repaying debt. A liquidation thus results in a net loss of `16.67% (= 100% * 20 / 120)` of the collateral’s `usd` value.
+
+### Liquidation Reserve
+
+When a vault is opened, a sum of `200 mkUSD` is reserved and held by the protocol. This is known as the `Liquidation Reserve`, and it serves to cover the gas costs incurred by the liquidator initiating the transaction in the case that a vault gets liquidated.
+
+The Liquidation Reserve is completely refundable. This reserve is returned when a vault is closed by paying off the debt or if there is a [redemption against it.](/protocol-concepts/depositing-collateral-and-minting-mkusd#redemptions)​
+
+It's crucial to note that the Liquidation Reserve is considered part of a vault's debt, and therefore, it’s factored into the computation of a vault's collateral ratio and interest payment. This slightly increases the actual requirements for collateral.
+
+### Redemptions
+
+When `mkUSD` is redeemed, the collateral provided to the redeemer is allocated from the vault(s) with the lowest collateral ratio (even if it is above `120%`) for that collateral type. If at the time of redemption you have the vault with the lowest ratio, you will give up some of your collateral, but your debt will be reduced accordingly.
+
+For more details see [Redemptions](/protocol-concepts/redemptions).
+
+
+######## ./knowledge-base\protocol-concepts\fees.md
+
+# Fees
+
+### Introduction
+
+The **Prisma** protocol is designed with flexibility and adaptability at its core, allowing it to accommodate the varying needs of its users. The protocol offers two types of fees:
+
+*   Fixed fees ([Minting fee](/protocol-concepts/fees#1.-minting-fees) and [Redemption fee](/protocol-concepts/fees#2.-redemption-fees))
+    
+
+*   ​[Borrowing interes](/protocol-concepts/fees#3.-borrow-interest-rate)​[t rate](/protocol-concepts/fees#3.-borrow-interest-rate)​
+    
+
+The aim of these fees is to maintain the stability and liquidity of the protocol while also providing an incentive for user participation.
+
+Both fixed fees and continuous interest can be adjusted by the governance of the **Prisma** Protocol. This means that the **Prisma** community can vote on the parameters of these fees for each collateral type, allowing the protocol to adapt to changing market conditions and ensuring that it continues to offer competitive rates for its users.
+
+### Minting Fees
+
+Minting fees are one-time fees charged at the moment of borrowing. In the Prisma protocol, this fee is applied when a user borrows `mkUSD` against their collateral.
+
+Every time `mkUSD` is drawn from an vault, a minting fee is charged on the drawn amount and added to the debt. Please note that the minting fee is variable (and determined algorithmically), with a minimum value of `0.5%` under normal operation. The fee is `0%` during [`Recovery Mode`](/protocol-concepts/recovery-mode). A `200 mkUSD` `Liquidation Reserve` charge will be applied as well, but returned upon repayment of debt.
+
+#### Minting fee calculation
+
+The minting fee is added to the debt of the vault and is determined by a `baseRate`. The fee rate is confined to a range between `0.5%` and `5%` and is multiplied by the amount of liquidity drawn by the borrower.
+
+_For example:_ The borrowing fee stands at `0.5%` and the borrower wants to receive `4,000 mkUSD` to their wallet. Being charged a borrowing fee of `20.00 mkUSD`, the borrower will incur a debt of `4,220 mkUSD` after the Liquidation Reserve and mint fee are added.
+
+### Redemption fees
+
+In **Prisma**, redemptions are transactions where users can exchange their `mkUSD` for a collateral of their choice at face value, subject to a fee known as the Redemption Fee. The purpose of this fee is to protect the system during periods of low collateral ratio by disincentivizing redemptions and ensuring the system remains solvent. You can find more detail on how it's calculated [here](/protocol-concepts/redemptions).
+
+### Borrow Interest Rate
+
+Borrow Interest Rate is a fee that accrues over time on outstanding debt. This is common in most lending protocols and serves as a source of revenue that helps maintain the protocol's operations. In **Prisma**, this fee is charged on the `mkUSD` borrowed against the collateral and the DAO will have a say concerning its parameters.
+
+#### Interest Calculation
+
+Interest accrues to all borrowers in a market when any _Ethereum_ address interacts with the protocol contracts, calling one of these functions: `liquidateaVault`, `batchLiquidateVault`, `redeemCollateral`, `openVault`, `addColl`, `withdrawColl`, `repayDebt`, `adjustVault`, `closeVault`.
+
+Successful execution of one of these functions triggers the `_accrueActiveInterests` method, which causes interest to be added to the underlying balance of every borrower in the market. Interest accrues for the current block, as well as each prior block in which the `_accrueActiveInterests` method was not triggered (no user interacted with the `Vault Manager` contract). Interest compounds only during blocks in which one of the aforementioned methods is invoked.
+
+#### Example of interest accrual:
+
+*   Alice mints `10,000 mkUSD` from the **Prisma** protocol.
+*   At the time of supply, the `interestRate` is `0.00000031709792 per second`.
+*   No one interacts with the `Vault Manager` contract for 100 seconds.
+*   Subsequently, Bob borrows some `mkUSD`.
+*   Alice’s underlying debt is now `10,000.317097919837646 mkUSD` (which is `0.00000031709792 times 100 seconds times the principal`, plus the original `10,000 mkUSD`).
+*   Alice’s underlying `mkUSD` balance in subsequent blocks will have interest accrued based on the new value of `10,000.317097919837646 mkUSD` instead of the initial `10,000 mkUSD`.
+    
+
+### Interest Rate Index and Borrowing Balance
+
+#### Implementation
+
+Each time a transaction occurs, the Interest Rate Index for the asset is updated to compound the interest since the prior index. This is done using the interest for the period, denominated by
+
+r∗t r \* tr∗t
+
+, calculated using a per-second interest rate. The formula for this is:
+
+activeInterestIndexc,n\=activeInterestIndexc,(n−1)∗(1+r∗t)activeInterestIndex\_{c,n} = activeInterestIndex\_{c,(n-1)} \* (1 + r \* t)activeInterestIndexc,n​\=activeInterestIndexc,(n−1)​∗(1+r∗t)
+
+In this formula:
+
+
+activeInterestIndexc,n activeInterestIndex\_{c,n} activeInterestIndexc,n​
+    
+c represents the Interest Rate Index for collateral type
+n at time
+​r represents the per-second interest rate
+​t represents the time period since the last index update
+    
+
+The market's total borrowing outstanding is also updated to include the interest accrued since the last index. The formula for this update is:
+
+totalDebtc,n\=totalDebtc,(n−1)∗(1+r∗t)totalDebt\_{c,n} = totalDebt\_{c,(n-1)} \* (1 + r \* t)totalDebtc,n​\=totalDebtc,(n−1)​∗(1+r∗t)
+
+In this formula:
+
+totalDebtc,n totalDebt\_{c,n} totalDebtc,n​
+
+c represents the total debt balance for collateral type
+n at time
+
+
+Each individual `vault` tracks the `activeInterestIndex` at the time of its last debt change.
+
+The current vault debt at any time is then:
+
+currentVaultDebt\=vault.debt∗activeInterestIndexvault.activeInterestIndexcurrentVaultDebt = \\frac{vault.debt \* activeInterestIndex}{vault.activeInterestIndex}currentVaultDebt\=vault.activeInterestIndexvault.debt∗activeInterestIndex​
+
+#### Limitations
+
+When calculating interest in `_accrueActiveInterests` simple interest is applied over the seconds since the last update. This will underestimate the amount of interest that would be calculated if it were compounded every second.
+
+The code is designed to accrue interest as frequently as possible. Additionally, the size of the discrepancy between the computed and theoretical interest will depend on the volume of transactions being handled by the Prisma protocol, which may change unpredictably.
+
+
+######## ./knowledge-base\protocol-concepts\liquidations-on-the-stability-pool.md
+
+# Liquidations and the Stability Pool
+
+### Introduction
+
+The stability pool serves as a primary safeguard to ensure the solvency of the system. Its role is to provide the necessary liquidity to cover the debt from liquidated vaults, thereby guaranteeing that the total `mkUSD` supply is always adequately collateralized.
+
+Whenever a vault is liquidated, an equivalent amount of `mkUSD` (corresponding to the remaining debt of the vault) is destroyed from the stability pool's balance to settle its debt. As a result, the entirety of the vault's collateral is transferred to the stability pool.
+
+The stability pool is financed by users (known as stability providers) depositing `mkUSD` into it. Over time, these stability providers witness a proportional reduction in their `mkUSD` deposits, but in return, they gain a proportional share of the liquidated collaterals.
+
+Given that vaults are usually liquidated at slightly below `120%` collateral ratios, it is anticipated that stability providers will amass a larger `usd` value of collaterals relative to the debt they offset.
+
+### Benefits for Stability Providers
+
+Stability providers benefit from financing the stability pool in several ways.
+
+#### Collateral distribution
+
+To start with, stability providers get access to discounted collaterals (from all the supported collaterals in Prisma) from liquidations without the need to spend gas or run liquidation bots.
+
+As liquidations happen just below the `MCR`, which is greater than `100%`, stability providers receive a discount of `MCR - 100%` on the liquidated collateral, thus experiencing a net gain when a vault is liquidated.
+
+Assume a total of `2,000,000 mkUSD` exists in the stability Pool, and you've deposited `200,000 mkUSD`.
+
+If a vault with `200,000 mkUSD` debt and `300 rETH` collateral faces liquidation when the `rETH` price is `$666`, and another with `100,000 mkUSD` debt and `200 wstETH` collateral is liquidated at a `wstETH` price of `$666`, you'll be impacted based on your 10% pool share.
+
+Specifically, your deposit will decrease by `10%` of the liquidated debt, amounting to `30,000 mkUSD`. This means your deposit will diminish from `200,000 to 170,000 mkUSD`. In compensation, you'll acquire 10% of the liquidated collateral: `30 rETH` and `20 wstETH`. At the given price, this collateral is valued at `$33,300`, rendering you a net profit of `$3,300` from the liquidation event.
+
+#### Prisma Token Emissions
+
+Furthermore, the stability pool is natively integrated into the [Prima emission system](/governance/prisma-emission-voting) and therefore they accrue emissions while providing liquidity.
+
+Stability providers can coordinate and vote to maximize the share of emission directed toward stability pool deposits
+
+### Liquidations
+
+In order to maintain full collateral backing for the entire `mkUSD` supply, vaults that descend beneath the minimum collateral ratio of `120%` are subject to liquidation.
+
+The debt associated with the liquidated vault is nullified and absorbed by the stability pool, and the collateral is redistributed amongst the stability providers.
+
+Despite the liquidation, the vault owner retains the full amount of `mkUSD` borrowed but suffers an overall loss up to `20%` in value. Consequently, it is crucial for borrowers to maintain their collateral ratio above the minimum threshold of `120%`, and ideally, they should aim to keep it above `150%`.
+
+#### Liquidators
+
+Anyone can initiate the liquidation of an vault once its collateral ratio falls below the Minimum Collateral Ratio of `120%`. To incentivize this action, the liquidator is rewarded with a gas compensation.
+
+Liquidating vaults involves certain gas costs that the liquidator must bear. To mitigate these costs, the protocol allows batch liquidations of multiple vaults, reducing the cost per vault. However, to ensure liquidations remain profitable even when gas prices skyrocket, the protocol provides a gas compensation determined by the following formula:
+
+`Gas Compensation = 200 mkUSD + 0.5% of vault's Collateral`
+
+The `200 mkUSD` is sourced from the Liquidation Reserve, while the variable `0.5%` portion is taken from the liquidated collateral. This slightly diminishes the liquidation gain for stability providers.
+
+#### Liquidations rules
+
+The way liquidations are enacted varies depending on certain conditions. This table elucidates all the different scenarios.
+
+**`ICR`** `= Individual Collateral Ratio`
+
+**`MCR`** `= Minimum Collateral Ratio`
+
+**`GTCR`** `= Global Total Collateral Ratio`
+
+**`SP`** `= Stability Pool`
+
+Condition
+
+Liquidation Behavior
+
+`ICR <=100%`
+
+Redistribute all debt and collateral (minus collateral gas compensation) to active vaults.
+
+`100% < ICR < MCR`
+
+The stability Pool `mkUSD` is offset with an equal amount of debt from the vault. A fraction of the vault's collateral (equal to the ratio of its offset debt to its entire debt) is shared between depositors. Any remaining debt and collateral (minus collateral gas compensation) is redistributed to active vaults.
+
+`GTCR < 150% & MCR <= ICR < GTCR & SP mkUSD >= vault debt`
+
+The protocol is in [recovery mode](/protocol-concepts/recovery-mode). The stability Pool `mkUSD` is offset with an equal amount of debt from the vault. A fraction of collateral with dollar value equal to `1.2 * debt` is shared between depositors. Nothing is redistributed to other active vaults. Since its `ICR` was `> 1.2`, the vault has a collateral remainder, which is claimable by the borrower. The vault is closed.
+
+#### Should liquidations occur while the stability pool is unfunded, what will happen?
+
+When the stability pool lacks funds, an alternate liquidation process known as "redistribution" comes into play. In this scenario, the system reallocates the debt and collateral held within liquidated vault to all other vaults currently in existence. This reallocation is performed based on the collateral value of each receiving vault.
+
+#### Claiming liquidated collateral
+
+Collateral transferred to the stability pool in the contexts of liquidations can be claimed by depositors. Before being able to claim the user must accrue its current apportioned amounts.
+
+Operations which perform such an accruing are
+
+*   1. Depositing to the pool
+*   2. Withdrawing from the pool (also 0 amount)
+*   3. Claiming Prisma rewards
+    
+
+To avoid an extra transactions the claimer can assess if the accrued value is up to date with the following client side check:
+
+​```
+claimable \= sp.getDepositorCollateralGain(account)
+
+for i in range(len(claimable)):
+
+if claimable\[i\] \> 0:
+
+assert sp.collateralGainsByDepositor(account, i) \== claimable\[i\]
+```
+​
+if this check passes, the user can call `claimCollateralGains` normally using the indexes with non zero claimable amounts in the claimable array. if this check fails, they must either:
+
+*   1. claim any pending PRISMA rewards first
+*   2. send a transaction to withdraw 0 mkUSD from the stability pool, updating the claimable balance.
+    
+
+######## ./knowledge-base\protocol-concepts\recovery-mode.md
+
+# Recovery Mode
+
+### Introduction
+
+Recovery Mode is activated when the Global Total Collateral Ratio (**GTCR**) of the system dips below `150%`. In this state, any vault with a collateral ratio less than the GTCR is subject to liquidation.
+
+Further, the system puts a halt to any borrower transactions that could potentially exacerbate the decrease in GTCR. The only way new `mkUSD` can be generated during this period is by either improving the collateral ratio of existing vaults or by establishing a new vault with a collateral ratio that is greater than or equal to `150%`.
+
+Generally, if an adjustment to an existing vault leads to a decrease in its collateral ratio, the transaction will only go through if the resultant GTCR remains above `150%`.
+
+### Definition of GTCR
+
+The Global Total Collateral Ratio, or GTCR, refers to the proportion of the total value of all collaterals within the protocol, evaluated at their present prices, to the total outstanding debt across the protocol.
+
+Put differently, it's the collective value of all vaults' collateral measured in USD, divided by the cumulative debt of all vaults, denominated in `mkUSD`.
+
+### Rationale for the Recovery Mode
+
+The primary objective of Recovery Mode is to encourage actions that rapidly increase the global Total Collateral Ratio (GTCR) to over `150%`, and to motivate `mkUSD` holders to refill the Stability Pool. From an economic perspective, Recovery Mode is structured to promote additional collateral deposits and debt repayments.
+
+Moreover, the very prospect of entering Recovery Mode serves as a preventive measure, steering the system away from ever entering this state. It's important to note that Recovery Mode is not an optimal state for the system to operate in.
+
+### Impact on fees
+
+During Recovery Mode, while the redemption fee remains unaffected, the Minting fee is reduced to 0% to stimulate borrowing activities that positively impact the GTCR.
+
+### Impact on liquidations
+
+While in Recovery Mode, if your vault’s Individual Collateral Ratio **(ICR)** falls below the GTCR, your vault can be liquidated (even if your vault's collateral ratio is above `120%`). To prevent this from happening, in both Normal and Recovery Mode, a user should maintain their collateral ratio over `150%.`
+
+During Recovery Mode, the liquidation loss is capped at `120%` of a vault's collateral. Any residual amount, i.e. the collateral above `120%` (and below the Global Total Collateral Ratio or GTCR), can be recouped by the borrower who faced liquidation by claiming the surplus collateral.
+
+This implies that a borrower will encounter the same liquidation "penalty" (`20%`) in Recovery Mode as they would in Normal Mode if their vault undergoes liquidation.
+
+
+######## ./knowledge-base\protocol-concepts\redemptions.md
+
+# Redemptions
+
+
+### Peg mechanisms
+
+`mkUSD` maintains a close association with `usd` due to its redeemability for collaterals at face value (i.e., 1 `mkUSD` can be exchanged for $1 worth of a collateral of choice), and the mandated minimum collateral ratio of `120%`. These conditions create a price floor and ceiling, respectively, through arbitrage opportunities. These are known as "hard peg mechanisms" as they rely on explicit operations.
+
+However, `mkUSD` also utilizes more indirect methods to maintain `usd` parity — referred to as "soft peg mechanisms". One such mechanism is parity as a Schelling point. As the **Prisma** protocol treats `mkUSD` as equivalent to `usd`, parity between the two is an inherent equilibrium state of the system.
+
+Another mechanism is the minting fee on new debts. As redemptions rise (indicating `mkUSD` is below $1), the base rate also increases — thus making borrowing less appealing, which prevents new `mkUSD` from flooding the market and driving the price below $1.
+
+### Redemptions
+
+A redemption refers to the act of exchanging `mkUSD` for collateral at face value, assuming 1 `mkUSD` is exactly equal to `$1`. Therefore, for X `mkUSD`, you receive X Dollars worth of collateral in return.
+
+Users are free to redeem their `mkUSD` for any collateral of choice among those supported by **Prisma** anytime without restrictions. However, a redemption fee may be imposed on the redeemed amount.
+
+For instance, if the prevailing redemption fee is `1%`, the price of `rETH` is `$500`, and you redeem `100 mkUSD`, you would receive `0.198 rETH` (`0.2 rETH` less a redemption fee of `0.002 rETH`).
+
+Note that the redeemed amount contributes to the calculation of the `baseRate` and may influence the redemption fee, particularly for large amounts.
+
+#### Redemption fee calculation
+
+Under normal circumstances, the redemption fee is calculated using the formula:
+
+`(baseRate + 0.5%) * CollateralDrawn`
+
+#### baseRate calculation
+
+Redemption fees are based on the `baseRate` state variable in `Vault Manager`, which is dynamically updated. The `baseRate` rises with each redemption and decays proportionally to the time elapsed since the last redemption or `mkUSD` issuance (fee event).
+
+Each redemption causes the following changes:
+
+*   The `baseRate` experiences decay relative to the time passed since the last fee event.
+*   The `baseRate` increases by an amount in proportion to the fraction of the total `mkUSD` supply that was redeemed.
+    
+#### Redemptions effect on vaults
+
+If a vault is redeemed against, it does not suffer a net loss. However, its collateral exposure will decrease. The vault's collateral ratio will also improve after a redemption.
+
+The most effective way to prevent redemption against your vault is to maintain a high collateral ratio relative to the rest of the vaults in the system. Keep in mind: The riskiest vaults (i.e., the least collateralized vaults) are targeted first when a redemption occurs.
+
+
+######## ./knowledge-base\protocol-concepts\supported-collateral.md
+
+# Supported Collaterals
+
+### Introduction
+
+This page contains the up to date list of supported LST collaterals in the **Prisma** protocol at launch.
+
+### Collaterals
+
+wstETH - Lido Wrapped liquid staked Ether 2.0
+
+Token Address: `0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0`
+
+Exchange Rate Function: `stEthPerToken`(18 decimals)
+
+---
+
+cbETH - Coinbase Wrapped Staked ETH
+
+Token Address: `0xBe9895146f7AF43049ca1c1AE358B0541Ea49704`
+
+Exchange Rate Function: `exchangeRate` (18 decimals)
+
+---
+
+rETH - Rocket Pool ETH
+
+Token Address: `0xae78736Cd615f374D3085123A210448E74Fc6393`
+
+Exchange Rate Function: `getExchangeRate` (18 decimals)
+
+---
+
+sfrxETH - Staked Frax Ether
+
+Token Address: `0xac3E018457B222d93114458476f3E3416Abbe38F`
+
+Exchange Rate Function: `pricePerShare` (18 decimals)
+
+
