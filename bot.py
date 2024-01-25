@@ -145,7 +145,7 @@ def handle_message(update: Update, context: CallbackContext) -> None:
 
         try:
             response = openai.chat.completions.create(
-                model="gpt-4-1106-preview",
+                model="gpt-4-0125-preview",
                 temperature=0,
                 messages=messages,
             )
